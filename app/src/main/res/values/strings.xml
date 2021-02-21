@@ -3,4 +3,5 @@
     <string name="no_info_text">Nie podano informacji</string>
     <string name="search_content_description">Search</string>
     <string name="info_content_description">Info</string>
+    <string name="search_hint">Wyszukaj</string>
 </resources>

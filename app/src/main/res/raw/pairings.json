@@ -1,0 +1,1614 @@
+[
+  {
+    "code": "BAU",
+    "place": "Augustów"
+  },
+  {
+    "code": "BBI",
+    "place": "Bielsk Podlaski"
+  },
+  {
+    "code": "BGR",
+    "place": "Grajewo"
+  },
+  {
+    "code": "BHA",
+    "place": "Hajnówka"
+  },
+  {
+    "code": "BI",
+    "place": "Białystok"
+  },
+  {
+    "code": "BIA",
+    "place": "Białystok"
+  },
+  {
+    "code": "BKL",
+    "place": "Kolno"
+  },
+  {
+    "code": "BL",
+    "place": "Łomża"
+  },
+  {
+    "code": "BLM",
+    "place": "Łomża"
+  },
+  {
+    "code": "BMN",
+    "place": "Mońki"
+  },
+  {
+    "code": "BS",
+    "place": "Suwałki"
+  },
+  {
+    "code": "BSE",
+    "place": "Sejny"
+  },
+  {
+    "code": "BSI",
+    "place": "Siemiatycze"
+  },
+  {
+    "code": "BSK",
+    "place": "Sokółka"
+  },
+  {
+    "code": "BSU",
+    "place": "Suwałki"
+  },
+  {
+    "code": "BWM",
+    "place": "Wysokie Mazowieckie"
+  },
+  {
+    "code": "BZA",
+    "place": "Zambrów"
+  },
+  {
+    "code": "CAL",
+    "place": "Aleksandrów Kujawski"
+  },
+  {
+    "code": "CB",
+    "place": "Bydgoszcz"
+  },
+  {
+    "code": "CBR",
+    "place": "Brodnica"
+  },
+  {
+    "code": "CBY",
+    "place": "Bydgoszcz (powiat)"
+  },
+  {
+    "code": "CCH",
+    "place": "Chełmno"
+  },
+  {
+    "code": "CG",
+    "place": "Grudziądz"
+  },
+  {
+    "code": "CGD",
+    "place": "Golub Dobrzyń"
+  },
+  {
+    "code": "CIN",
+    "place": "Inowrocław"
+  },
+  {
+    "code": "CLI",
+    "place": "Lipno"
+  },
+  {
+    "code": "CMG",
+    "place": "Mogilno"
+  },
+  {
+    "code": "CNA",
+    "place": "Nakło nad Notecią"
+  },
+  {
+    "code": "CRA",
+    "place": "Radziejów"
+  },
+  {
+    "code": "CRY",
+    "place": "Rypin"
+  },
+  {
+    "code": "CSW",
+    "place": "Świecie"
+  },
+  {
+    "code": "CSE",
+    "place": "Sępólno Krajeńskie"
+  },
+  {
+    "code": "CT",
+    "place": "Toruń"
+  },
+  {
+    "code": "CTR",
+    "place": "Toruń (powiat)"
+  },
+  {
+    "code": "CTU",
+    "place": "Tuchola"
+  },
+  {
+    "code": "CWA",
+    "place": "Wąbrzeźno"
+  },
+  {
+    "code": "CWA",
+    "place": "Włocławek"
+  },
+  {
+    "code": "CWL",
+    "place": "Włocławek (powiat)"
+  },
+  {
+    "code": "CZN",
+    "place": "Wąbrzeźno"
+  },
+  {
+    "code": "DB",
+    "place": "Wałbrzych"
+  },
+  {
+    "code": "DBA",
+    "place": "Wałbrzych (powiat)"
+  },
+  {
+    "code": "DBL",
+    "place": "Bolesławiec"
+  },
+  {
+    "code": "DDZ",
+    "place": "Dzierżoniów"
+  },
+  {
+    "code": "DGL",
+    "place": "Głogów"
+  },
+  {
+    "code": "DGR",
+    "place": "Góra"
+  },
+  {
+    "code": "DJ",
+    "place": "Jelenia Góra"
+  },
+  {
+    "code": "DJA",
+    "place": "Jawor"
+  },
+  {
+    "code": "DJE",
+    "place": "Jelenia Góra (powiat)"
+  },
+  {
+    "code": "DKA",
+    "place": "Kamienna Góra"
+  },
+  {
+    "code": "DKL",
+    "place": "Kłodzko"
+  },
+  {
+    "code": "DL",
+    "place": "Legnica"
+  },
+  {
+    "code": "DLB",
+    "place": "Lubań"
+  },
+  {
+    "code": "DLE",
+    "place": "Legnica (powiat)"
+  },
+  {
+    "code": "DLU",
+    "place": "Lubin"
+  },
+  {
+    "code": "DLW",
+    "place": "Lwówek Śląski"
+  },
+  {
+    "code": "DMI",
+    "place": "Milicz"
+  },
+  {
+    "code": "DOA",
+    "place": "Oława"
+  },
+  {
+    "code": "DOL",
+    "place": "Oleśnica"
+  },
+  {
+    "code": "DPL",
+    "place": "Polkowice"
+  },
+  {
+    "code": "DSR",
+    "place": "Środa Śląska"
+  },
+  {
+    "code": "DST",
+    "place": "Strzelin"
+  },
+  {
+    "code": "DSW",
+    "place": "Świdnica"
+  },
+  {
+    "code": "DTR",
+    "place": "Trzebnica"
+  },
+  {
+    "code": "DW",
+    "place": "Wrocław"
+  },
+  {
+    "code": "DWL",
+    "place": "Wołow"
+  },
+  {
+    "code": "DWR",
+    "place": "Wrocław (powiat)"
+  },
+  {
+    "code": "DZA",
+    "place": "Ząbkowice Śląskie"
+  },
+  {
+    "code": "DZG",
+    "place": "Zgorzelec"
+  },
+  {
+    "code": "DZL",
+    "place": "Złotoryja"
+  },
+  {
+    "code": "EBE",
+    "place": "Bełchatów"
+  },
+  {
+    "code": "EBR",
+    "place": "Brzeziny"
+  },
+  {
+    "code": "EKU",
+    "place": "Kutno"
+  },
+  {
+    "code": "EL",
+    "place": "Łódź"
+  },
+  {
+    "code": "ELA",
+    "place": "Łask"
+  },
+  {
+    "code": "ELC",
+    "place": "Łowicz"
+  },
+  {
+    "code": "ELE",
+    "place": "Łęczyca"
+  },
+  {
+    "code": "ELW",
+    "place": "Łódź Wschód"
+  },
+  {
+    "code": "EOP",
+    "place": "Opoczno"
+  },
+  {
+    "code": "EP",
+    "place": "Piotrków Trybunalski"
+  },
+  {
+    "code": "EPA",
+    "place": "Pabianice"
+  },
+  {
+    "code": "EPD",
+    "place": "Poddębice"
+  },
+  {
+    "code": "EPI",
+    "place": "Piotrków Trybunalski (powiat)"
+  },
+  {
+    "code": "EPJ",
+    "place": "Pajęczno"
+  },
+  {
+    "code": "ERA",
+    "place": "Radomsko"
+  },
+  {
+    "code": "ERW",
+    "place": "Rawa Mazowiecka"
+  },
+  {
+    "code": "ES",
+    "place": "Skierniewice"
+  },
+  {
+    "code": "ESI",
+    "place": "Sieradz"
+  },
+  {
+    "code": "ESK",
+    "place": "Skierniewice"
+  },
+  {
+    "code": "ETM",
+    "place": "Tomaszów Mazowiecki"
+  },
+  {
+    "code": "EWE",
+    "place": "Wieruszów"
+  },
+  {
+    "code": "EWI",
+    "place": "Wieluń"
+  },
+  {
+    "code": "EZD",
+    "place": "Zduńska Wola"
+  },
+  {
+    "code": "EZG",
+    "place": "Zgierz"
+  },
+  {
+    "code": "FG",
+    "place": "Gorzów Wielkopolski"
+  },
+  {
+    "code": "FGW",
+    "place": "Gorzów WIelkopolski (powiat)"
+  },
+  {
+    "code": "FKR",
+    "place": "Krosno Odrzańskie"
+  },
+  {
+    "code": "FMI",
+    "place": "Międzyrzecz"
+  },
+  {
+    "code": "FNW",
+    "place": "Nowa Sól"
+  },
+  {
+    "code": "FSD",
+    "place": "Strzelce Krajeńskie"
+  },
+  {
+    "code": "FSL",
+    "place": "Słubice"
+  },
+  {
+    "code": "FSUU",
+    "place": "Sulęcin"
+  },
+  {
+    "code": "FSW",
+    "place": "Swiebodzin"
+  },
+  {
+    "code": "FWS",
+    "place": "Wschowa"
+  },
+  {
+    "code": "FZ",
+    "place": "Zielona Góra"
+  },
+  {
+    "code": "FZA",
+    "place": "Żary"
+  },
+  {
+    "code": "FZG",
+    "place": "Żagań"
+  },
+  {
+    "code": "FZI",
+    "place": "Zielona Góra (powiat)"
+  },
+  {
+    "code": "GA",
+    "place": "Gdynia"
+  },
+  {
+    "code": "GBY",
+    "place": "Bytów"
+  },
+  {
+    "code": "GCH",
+    "place": "Chojnice"
+  },
+  {
+    "code": "GCZ",
+    "place": "Człuchów"
+  },
+  {
+    "code": "GD",
+    "place": "Gdańsk"
+  },
+  {
+    "code": "GDA",
+    "place": "Gdańsk (powiat)"
+  },
+  {
+    "code": "GKA",
+    "place": "Kartuzy"
+  },
+  {
+    "code": "GKS",
+    "place": "Kościerzyna"
+  },
+  {
+    "code": "GKW",
+    "place": "Kwidzyn"
+  },
+  {
+    "code": "GLE",
+    "place": "Lębork"
+  },
+  {
+    "code": "GMB",
+    "place": "Malbork"
+  },
+  {
+    "code": "GND",
+    "place": "Nowy Dwór Gdański"
+  },
+  {
+    "code": "GPU",
+    "place": "Puck"
+  },
+  {
+    "code": "GS",
+    "place": "Słupsk"
+  },
+  {
+    "code": "GSL",
+    "place": "Słupsk (powiat)"
+  },
+  {
+    "code": "GSP",
+    "place": "Sopot"
+  },
+  {
+    "code": "GST",
+    "place": "Starogard Gdański"
+  },
+  {
+    "code": "GSZ",
+    "place": "Sztum"
+  },
+  {
+    "code": "GTC",
+    "place": "Tczew"
+  },
+  {
+    "code": "GWE",
+    "place": "Wejherowo"
+  },
+  {
+    "code": "KBC",
+    "place": "Bochnia"
+  },
+  {
+    "code": "KBR",
+    "place": "Brzesko"
+  },
+  {
+    "code": "KCH",
+    "place": "Chrzanów"
+  },
+  {
+    "code": "KDA",
+    "place": "Dąbrowa Tarnowska"
+  },
+  {
+    "code": "KGR",
+    "place": "Gorlice"
+  },
+  {
+    "code": "KLI",
+    "place": "Limanowa"
+  },
+  {
+    "code": "KMI",
+    "place": "Miechów"
+  },
+  {
+    "code": "KMY",
+    "place": "Myślenice"
+  },
+  {
+    "code": "KN",
+    "place": "Nowy Sącz"
+  },
+  {
+    "code": "KNS",
+    "place": "Nowy Sącz (powiat)"
+  },
+  {
+    "code": "KNT",
+    "place": "Nowy Targ"
+  },
+  {
+    "code": "KOL",
+    "place": "Olkusz"
+  },
+  {
+    "code": "KOS",
+    "place": "Oświęcim"
+  },
+  {
+    "code": "KPR",
+    "place": "Proszowice"
+  },
+  {
+    "code": "KR",
+    "place": "Kraków"
+  },
+  {
+    "code": "KRA",
+    "place": "Kraków (powiat)"
+  },
+  {
+    "code": "KSU",
+    "place": "Sucha Beskidzka"
+  },
+  {
+    "code": "KT",
+    "place": "Tarnów"
+  },
+  {
+    "code": "KTA",
+    "place": "Tarnów (powiat)"
+  },
+  {
+    "code": "KTT",
+    "place": "Zakopane"
+  },
+  {
+    "code": "KWA",
+    "place": "Wadowice"
+  },
+  {
+    "code": "KWI",
+    "place": "Wieliczka"
+  },
+  {
+    "code": "LB",
+    "place": "Biała Podlaska"
+  },
+  {
+    "code": "LBI",
+    "place": "Biała Podlaska (powiat)"
+  },
+  {
+    "code": "LBL",
+    "place": "Biłgoraj"
+  },
+  {
+    "code": "LC",
+    "place": "Chełm"
+  },
+  {
+    "code": "LCH",
+    "place": "Chełm (powiat)"
+  },
+  {
+    "code": "LHR",
+    "place": "Hrubieszów"
+  },
+  {
+    "code": "LJA",
+    "place": "Janów Lubelski"
+  },
+  {
+    "code": "LKR",
+    "place": "Kraśnik"
+  },
+  {
+    "code": "LKS",
+    "place": "Krasnystaw"
+  },
+  {
+    "code": "LLB",
+    "place": "Lubartów"
+  },
+  {
+    "code": "LLE",
+    "place": "Łęczna"
+  },
+  {
+    "code": "LLU",
+    "place": "Łuków"
+  },
+  {
+    "code": "LOP",
+    "place": "Opole Lubelskie"
+  },
+  {
+    "code": "LPA",
+    "place": "Parczew"
+  },
+  {
+    "code": "LPU",
+    "place": "Puławy"
+  },
+  {
+    "code": "LRA",
+    "place": "Radzyń Podlaski"
+  },
+  {
+    "code": "LRY",
+    "place": "Ryki"
+  },
+  {
+    "code": "LSW",
+    "place": "Świdnik"
+  },
+  {
+    "code": "LTM",
+    "place": "Tomaszów Lubelski"
+  },
+  {
+    "code": "LU",
+    "place": "Lublin"
+  },
+  {
+    "code": "LUB",
+    "place": "Lublin (powiat)"
+  },
+  {
+    "code": "LWL",
+    "place": "Włodawa"
+  },
+  {
+    "code": "LZ",
+    "place": "Zamość"
+  },
+  {
+    "code": "LZA",
+    "place": "Zamość (powiat)"
+  },
+  {
+    "code": "NBA",
+    "place": "Bartoszyce"
+  },
+  {
+    "code": "NBR",
+    "place": "Braniewo"
+  },
+  {
+    "code": "NDZ",
+    "place": "Działdowo"
+  },
+  {
+    "code": "NE",
+    "place": "Elbląg"
+  },
+  {
+    "code": "NEV",
+    "place": "Elbląg (powiat)"
+  },
+  {
+    "code": "NEL",
+    "place": "Ełk"
+  },
+  {
+    "code": "NGI",
+    "place": "Giżycko"
+  },
+  {
+    "code": "NGO",
+    "place": "Gołdap"
+  },
+  {
+    "code": "NIL",
+    "place": "Iława"
+  },
+  {
+    "code": "NKE",
+    "place": "Kętrzyn"
+  },
+  {
+    "code": "NLI",
+    "place": "Lidzbark Warmiński"
+  },
+  {
+    "code": "NMR",
+    "place": "Mrągowo"
+  },
+  {
+    "code": "NNI",
+    "place": "Nidzica"
+  },
+  {
+    "code": "NNI",
+    "place": "Nowe Miasto Lubawskie"
+  },
+  {
+    "code": "NO",
+    "place": "Olsztyn"
+  },
+  {
+    "code": "NOE",
+    "place": "Olecko"
+  },
+  {
+    "code": "NOG",
+    "place": "Olecko"
+  },
+  {
+    "code": "NOL",
+    "place": "Olsztyn (powiat)"
+  },
+  {
+    "code": "NOS",
+    "place": "Ostróda"
+  },
+  {
+    "code": "NPI",
+    "place": "Pisz"
+  },
+  {
+    "code": "NSZ",
+    "place": "Szczytno"
+  },
+  {
+    "code": "NWE",
+    "place": "Węgorzewo"
+  },
+  {
+    "code": "OB",
+    "place": "Brzeg"
+  },
+  {
+    "code": "OGL",
+    "place": "Głubczyce"
+  },
+  {
+    "code": "OK",
+    "place": "Kędzierzyn-Koźle"
+  },
+  {
+    "code": "OKL",
+    "place": "Kluczbork"
+  },
+  {
+    "code": "OKR",
+    "place": "Krapkowice"
+  },
+  {
+    "code": "ONA",
+    "place": "Namysłow"
+  },
+  {
+    "code": "ONY",
+    "place": "Nysa"
+  },
+  {
+    "code": "OOL",
+    "place": "Olesno"
+  },
+  {
+    "code": "OP",
+    "place": "Opole"
+  },
+  {
+    "code": "OPO",
+    "place": "Opole (powiat)"
+  },
+  {
+    "code": "OPR",
+    "place": "Prudnik"
+  },
+  {
+    "code": "OST",
+    "place": "Strzelce Opolskie"
+  },
+  {
+    "code": "PCH",
+    "place": "Chodzież"
+  },
+  {
+    "code": "PCT",
+    "place": "Czarnków"
+  },
+  {
+    "code": "PGN",
+    "place": "Gniezno"
+  },
+  {
+    "code": "PGO",
+    "place": "Grodzisk Wielkopolski"
+  },
+  {
+    "code": "PGS",
+    "place": "Gostyń"
+  },
+  {
+    "code": "PJA",
+    "place": "Jarocin"
+  },
+  {
+    "code": "PK",
+    "place": "Kalisz"
+  },
+  {
+    "code": "PKA",
+    "place": "Kalisz (powiat)"
+  },
+  {
+    "code": "PKE",
+    "place": "Kępno"
+  },
+  {
+    "code": "PKL",
+    "place": "Koło"
+  },
+  {
+    "code": "PKN",
+    "place": "Konin (powiat)"
+  },
+  {
+    "code": "PKO",
+    "place": "Konin"
+  },
+  {
+    "code": "PKR",
+    "place": "Krotoszyn"
+  },
+  {
+    "code": "PKS",
+    "place": "Kościan"
+  },
+  {
+    "code": "PL",
+    "place": "Leszno"
+  },
+  {
+    "code": "PLE",
+    "place": "Leszno (powiat)"
+  },
+  {
+    "code": "PMI",
+    "place": "Międzychód"
+  },
+  {
+    "code": "PN",
+    "place": "Konin"
+  },
+  {
+    "code": "PN",
+    "place": "Nowy Tomyśl"
+  },
+  {
+    "code": "PO",
+    "place": "Poznań"
+  },
+  {
+    "code": "POB",
+    "place": "Oborniki"
+  },
+  {
+    "code": "POS",
+    "place": "Ostrów Wielkopolski"
+  },
+  {
+    "code": "POT",
+    "place": "Ostrzeszów"
+  },
+  {
+    "code": "POZ",
+    "place": "Poznań (powiat)"
+  },
+  {
+    "code": "PP",
+    "place": "Piła"
+  },
+  {
+    "code": "PPL",
+    "place": "Pleszew"
+  },
+  {
+    "code": "PRA",
+    "place": "Rawicz"
+  },
+  {
+    "code": "PSE",
+    "place": "Śrem"
+  },
+  {
+    "code": "PSL",
+    "place": "Słupca"
+  },
+  {
+    "code": "PSR",
+    "place": "Środa Wielkopolska"
+  },
+  {
+    "code": "PSZ",
+    "place": "Szamotuły"
+  },
+  {
+    "code": "PTU",
+    "place": "TUrek"
+  },
+  {
+    "code": "PWA",
+    "place": "Wągrowiec"
+  },
+  {
+    "code": "PWL",
+    "place": "WOlsztyn"
+  },
+  {
+    "code": "PWR",
+    "place": "Września"
+  },
+  {
+    "code": "PZ",
+    "place": "Poznań (powiat)"
+  },
+  {
+    "code": "PZL",
+    "place": "Złotów"
+  },
+  {
+    "code": "RBI",
+    "place": "Ustrzyki Dolne"
+  },
+  {
+    "code": "RBR",
+    "place": "Brzozów"
+  },
+  {
+    "code": "RDE",
+    "place": "Dębica"
+  },
+  {
+    "code": "RJA",
+    "place": "Jarosław"
+  },
+  {
+    "code": "RJS",
+    "place": "Jasło"
+  },
+  {
+    "code": "RK",
+    "place": "Krosno"
+  },
+  {
+    "code": "RKL",
+    "place": "Kolbuszowa"
+  },
+  {
+    "code": "RKR",
+    "place": "Krosno (powiat)"
+  },
+  {
+    "code": "RLA",
+    "place": "Łańcut"
+  },
+  {
+    "code": "RLE",
+    "place": "Leżajsk"
+  },
+  {
+    "code": "RLS",
+    "place": "Lesko"
+  },
+  {
+    "code": "RLU",
+    "place": "Lubaczów"
+  },
+  {
+    "code": "RMI",
+    "place": "Mielec"
+  },
+  {
+    "code": "RNI",
+    "place": "Nisko"
+  },
+  {
+    "code": "RP",
+    "place": "Przemyśl"
+  },
+  {
+    "code": "RPR",
+    "place": "Przemyśl (powiat)"
+  },
+  {
+    "code": "RPZ",
+    "place": "Przeworsk"
+  },
+  {
+    "code": "RRS",
+    "place": "Ropczyce"
+  },
+  {
+    "code": "RSA",
+    "place": "Sanok"
+  },
+  {
+    "code": "RSR",
+    "place": "Strzyzów"
+  },
+  {
+    "code": "RST",
+    "place": "Stalowa Wola"
+  },
+  {
+    "code": "RT",
+    "place": "Tarnobrzeg"
+  },
+  {
+    "code": "RTA",
+    "place": "Tarnobrzeg (powiat)"
+  },
+  {
+    "code": "RZ",
+    "place": "Rzeszów"
+  },
+  {
+    "code": "RZE",
+    "place": "Rzeszów (powiat)"
+  },
+  {
+    "code": "SB",
+    "place": "Bielsko-Biała"
+  },
+  {
+    "code": "SBE",
+    "place": "Będzin"
+  },
+  {
+    "code": "SBI",
+    "place": "Bielsko-Biała (powiat)"
+  },
+  {
+    "code": "SBL",
+    "place": "Bieruńsko-Lędziński"
+  },
+  {
+    "code": "SC",
+    "place": "Częstochowa"
+  },
+  {
+    "code": "SCI",
+    "place": "Cieszyn"
+  },
+  {
+    "code": "SCZ",
+    "place": "Częstochowa (powiat)"
+  },
+  {
+    "code": "SD",
+    "place": "Dąbrowa Górnicza"
+  },
+  {
+    "code": "SG",
+    "place": "Gliwice"
+  },
+  {
+    "code": "SGL",
+    "place": "Gliwice (powiat)"
+  },
+  {
+    "code": "SH",
+    "place": "Chorzów"
+  },
+  {
+    "code": "SI",
+    "place": "Siemianowice Śląskie"
+  },
+  {
+    "code": "SJ",
+    "place": "Jaworzno"
+  },
+  {
+    "code": "SJZ",
+    "place": "Jastrzębie Zdrój"
+  },
+  {
+    "code": "SK",
+    "place": "Katowice"
+  },
+  {
+    "code": "SKL",
+    "place": "Kłobuck"
+  },
+  {
+    "code": "SL",
+    "place": "Ruda Śląska"
+  },
+  {
+    "code": "SLU",
+    "place": "Lubliniec"
+  },
+  {
+    "code": "SM",
+    "place": "Mysłowice"
+  },
+  {
+    "code": "SMI",
+    "place": "Mikołow"
+  },
+  {
+    "code": "SMY",
+    "place": "Myszków"
+  },
+  {
+    "code": "SO",
+    "place": "Sosnowiec"
+  },
+  {
+    "code": "SPI",
+    "place": "Piekary Śląskie"
+  },
+  {
+    "code": "SPS",
+    "place": "Pszczyna"
+  },
+  {
+    "code": "SR",
+    "place": "Rybnik"
+  },
+  {
+    "code": "SRB",
+    "place": "Rybnik (powiat)"
+  },
+  {
+    "code": "SRC",
+    "place": "Racibórz"
+  },
+  {
+    "code": "SRS",
+    "place": "Ruda Śląska"
+  },
+  {
+    "code": "ST",
+    "place": "Tychy"
+  },
+  {
+    "code": "STA",
+    "place": "Tarnowskie Góry"
+  },
+  {
+    "code": "STY",
+    "place": "Tychy (powiat)"
+  },
+  {
+    "code": "SW",
+    "place": "Świętochłowice"
+  },
+  {
+    "code": "SWD",
+    "place": "Wodzisław Śląski"
+  },
+  {
+    "code": "SY",
+    "place": "Bytom"
+  },
+  {
+    "code": "SZ",
+    "place": "Zabrze"
+  },
+  {
+    "code": "SZA",
+    "place": "Zawiercie"
+  },
+  {
+    "code": "SZO",
+    "place": "Żory"
+  },
+  {
+    "code": "SZY",
+    "place": "Żywiec"
+  },
+  {
+    "code": "TBU",
+    "place": "Busko Zdrój"
+  },
+  {
+    "code": "TJE",
+    "place": "Jędrzejów"
+  },
+  {
+    "code": "TK",
+    "place": "Kielce"
+  },
+  {
+    "code": "TKA",
+    "place": "Kazimierza Wielka"
+  },
+  {
+    "code": "TKI",
+    "place": "Kielce (powiat)"
+  },
+  {
+    "code": "TKN",
+    "place": "Końskie"
+  },
+  {
+    "code": "TLW",
+    "place": "Włoszczowa"
+  },
+  {
+    "code": "TOP",
+    "place": "Opatów"
+  },
+  {
+    "code": "TOS",
+    "place": "Ostrowiec Świętokrzyski"
+  },
+  {
+    "code": "TPI",
+    "place": "Pińczów"
+  },
+  {
+    "code": "TSA",
+    "place": "Sandomierz"
+  },
+  {
+    "code": "TSK",
+    "place": "Skarżysko-Kamienna"
+  },
+  {
+    "code": "TST",
+    "place": "Starachowice"
+  },
+  {
+    "code": "TSZ",
+    "place": "Staszów"
+  },
+  {
+    "code": "WA",
+    "place": "Warszawa Białołęka"
+  },
+  {
+    "code": "WB",
+    "place": "Warszawa Bemowo"
+  },
+  {
+    "code": "WD",
+    "place": "Warszawa Bielany"
+  },
+  {
+    "code": "WE",
+    "place": "Warszawa Mokotów"
+  },
+  {
+    "code": "WF",
+    "place": "Warszawa Praga-Południe"
+  },
+  {
+    "code": "WH",
+    "place": "Warszawa Praga-Północ"
+  },
+  {
+    "code": "WI",
+    "place": "Warszawa Śródmieście"
+  },
+  {
+    "code": "WJ",
+    "place": "Warszawa Targówek"
+  },
+  {
+    "code": "WK",
+    "place": "Warszawa Ursus"
+  },
+  {
+    "code": "WN",
+    "place": "Warszawa Ursynów"
+  },
+  {
+    "code": "WT",
+    "place": "Warszawa Wawer"
+  },
+  {
+    "code": "WU",
+    "place": "Warszawa Ochota"
+  },
+  {
+    "code": "WZ",
+    "place": "Warszawa Zachód"
+  },
+  {
+    "code": "WBR",
+    "place": "Białobrzegi"
+  },
+  {
+    "code": "WCI",
+    "place": "Ciechanów"
+  },
+  {
+    "code": "WG",
+    "place": "Garwolin"
+  },
+  {
+    "code": "WGM",
+    "place": "Grodzisk Mazowiecki"
+  },
+  {
+    "code": "WGR",
+    "place": "Grójec"
+  },
+  {
+    "code": "WGS",
+    "place": "Gostynin"
+  },
+  {
+    "code": "WKZ",
+    "place": "Kozienice"
+  },
+  {
+    "code": "WL",
+    "place": "Legionowo"
+  },
+  {
+    "code": "WLI",
+    "place": "Lipsko"
+  },
+  {
+    "code": "WLS",
+    "place": "Łosice"
+  },
+  {
+    "code": "WM",
+    "place": "Mińsk Mazowiecki"
+  },
+  {
+    "code": "WMA",
+    "place": "Maków Mazowiecki"
+  },
+  {
+    "code": "WML",
+    "place": "Mława"
+  },
+  {
+    "code": "WND",
+    "place": "Nowy Dwór Mazowiecki"
+  },
+  {
+    "code": "WO",
+    "place": "Ostrołęka"
+  },
+  {
+    "code": "WOR",
+    "place": "Ostrów Mazowiecka"
+  },
+  {
+    "code": "WOS",
+    "place": "Ostrołęka (powiat)"
+  },
+  {
+    "code": "WOT",
+    "place": "Otwock"
+  },
+  {
+    "code": "WP",
+    "place": "Płock"
+  },
+  {
+    "code": "WPI",
+    "place": "Piaseczno"
+  },
+  {
+    "code": "WPL",
+    "place": "Płock (powiat)"
+  },
+  {
+    "code": "WPN",
+    "place": "Płońsk"
+  },
+  {
+    "code": "WPR",
+    "place": "Pruszków"
+  },
+  {
+    "code": "WPU",
+    "place": "Pułtusk"
+  },
+  {
+    "code": "WPY",
+    "place": "Przysucha"
+  },
+  {
+    "code": "WPZ",
+    "place": "Przasnysz"
+  },
+  {
+    "code": "WR",
+    "place": "Radom"
+  },
+  {
+    "code": "WRA",
+    "place": "Radom (powiat)"
+  },
+  {
+    "code": "WS",
+    "place": "Siedlce"
+  },
+  {
+    "code": "WSC",
+    "place": "Sochaczew"
+  },
+  {
+    "code": "WSE",
+    "place": "Sierpc"
+  },
+  {
+    "code": "WSK",
+    "place": "Sokołów Podlaski"
+  },
+  {
+    "code": "WSI",
+    "place": "Siedlce (powiat)"
+  },
+  {
+    "code": "WSZ",
+    "place": "Szydłowiec"
+  },
+  {
+    "code": "WV",
+    "place": "Wołomin"
+  },
+  {
+    "code": "WWE",
+    "place": "Węgrów"
+  },
+  {
+    "code": "WWL",
+    "place": "Wołomin"
+  },
+  {
+    "code": "WWY",
+    "place": "Wyszków"
+  },
+  {
+    "code": "WZU",
+    "place": "Żuromin"
+  },
+  {
+    "code": "WZW",
+    "place": "Zwoleń"
+  },
+  {
+    "code": "WZY",
+    "place": "Żyrardów"
+  },
+  {
+    "code": "ZBI",
+    "place": "Białogard"
+  },
+  {
+    "code": "ZCH",
+    "place": "Choszczno"
+  },
+  {
+    "code": "ZDR",
+    "place": "Drawsko Pomorskie"
+  },
+  {
+    "code": "ZGL",
+    "place": "Goleniów"
+  },
+  {
+    "code": "ZGR",
+    "place": "Gryfino"
+  },
+  {
+    "code": "ZGY",
+    "place": "Gryfice"
+  },
+  {
+    "code": "ZK",
+    "place": "Koszalin"
+  },
+  {
+    "code": "ZKA",
+    "place": "Kamień Pomorski"
+  },
+  {
+    "code": "ZKL",
+    "place": "Kołobrzeg"
+  },
+  {
+    "code": "ZKO",
+    "place": "Koszalin (powiat)"
+  },
+  {
+    "code": "ZLO",
+    "place": "Łobez"
+  },
+  {
+    "code": "ZMY",
+    "place": "Myślibórz"
+  },
+  {
+    "code": "ZPL",
+    "place": "Police"
+  },
+  {
+    "code": "ZPY",
+    "place": "Przyce"
+  },
+  {
+    "code": "ZS",
+    "place": "Szczecin"
+  },
+  {
+    "code": "ZSD",
+    "place": "Świdwin"
+  },
+  {
+    "code": "ZSL",
+    "place": "Sławno"
+  },
+  {
+    "code": "ZST",
+    "place": "Stargard Sczeciński"
+  },
+  {
+    "code": "ZSW",
+    "place": "Świnoujście"
+  },
+  {
+    "code": "ZSZ",
+    "place": "Szczecinek"
+  },
+  {
+    "code": "ZWA",
+    "place": "Wałcz"
+  },
+  {
+    "code": "U",
+    "place": "wojska MSWiA"
+  },
+  {
+    "code": "HB",
+    "place": "Biuro Ochrony Rządu"
+  },
+  {
+    "code": "HK",
+    "place": "Agencja Bezpieczeństwa Wewnętrznego i Agencja Wywiadu"
+  },
+  {
+    "code": "HM",
+    "place": "Służba Wywiadu Wojskowego i Służba Kontrwywiadu Wojskowego"
+  },
+  {
+    "code": "HP",
+    "place": "Policja"
+  },
+  {
+    "code": "HS",
+    "place": "Kontrola Skarbowa"
+  },
+  {
+    "code": "HW",
+    "place": "Straż Graniczna"
+  }
+]
