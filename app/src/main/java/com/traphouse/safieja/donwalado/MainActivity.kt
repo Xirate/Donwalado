@@ -12,6 +12,7 @@ import com.google.android.gms.maps.model.LatLngBounds
 
 //49.459069, 13.602941
 //55.383678, 25.182531
+//Bardzo ważny komentarz
 
 class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     override fun onCreate(savedInstanceState: Bundle?) {
