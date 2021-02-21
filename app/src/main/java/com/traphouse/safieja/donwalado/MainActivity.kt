@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         val bounds = LatLngBounds(LatLng(49.459069, 13.602941), LatLng(55.383678, 25.182531))
 //        googleMap?.moveCamera(CameraUpdateFactory.newLatLngBounds(bounds, 10))
         googleMap?.setOnMapLoadedCallback {
-            googleMap.moveCamera(CameraUpdateFactory.newLatLngBounds(bounds, 10))
+            googleMap.moveCamera(CameraUpdateFactory.newLatLngBounds(bounds, 20))
         }
     }
 }
