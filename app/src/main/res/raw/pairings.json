@@ -1,1614 +1,2003 @@
-[
-  {
-    "code": "BAU",
-    "place": "Augustów"
-  },
-  {
-    "code": "BBI",
-    "place": "Bielsk Podlaski"
-  },
-  {
-    "code": "BGR",
-    "place": "Grajewo"
-  },
-  {
-    "code": "BHA",
-    "place": "Hajnówka"
-  },
-  {
-    "code": "BI",
-    "place": "Białystok"
-  },
-  {
-    "code": "BIA",
-    "place": "Białystok"
-  },
-  {
-    "code": "BKL",
-    "place": "Kolno"
-  },
-  {
-    "code": "BL",
-    "place": "Łomża"
-  },
-  {
-    "code": "BLM",
-    "place": "Łomża"
-  },
-  {
-    "code": "BMN",
-    "place": "Mońki"
-  },
-  {
-    "code": "BS",
-    "place": "Suwałki"
-  },
-  {
-    "code": "BSE",
-    "place": "Sejny"
-  },
-  {
-    "code": "BSI",
-    "place": "Siemiatycze"
-  },
-  {
-    "code": "BSK",
-    "place": "Sokółka"
-  },
-  {
-    "code": "BSU",
-    "place": "Suwałki"
-  },
-  {
-    "code": "BWM",
-    "place": "Wysokie Mazowieckie"
-  },
-  {
-    "code": "BZA",
-    "place": "Zambrów"
-  },
-  {
-    "code": "CAL",
-    "place": "Aleksandrów Kujawski"
-  },
-  {
-    "code": "CB",
-    "place": "Bydgoszcz"
-  },
-  {
-    "code": "CBR",
-    "place": "Brodnica"
-  },
-  {
-    "code": "CBY",
-    "place": "Bydgoszcz (powiat)"
-  },
-  {
-    "code": "CCH",
-    "place": "Chełmno"
-  },
-  {
-    "code": "CG",
-    "place": "Grudziądz"
-  },
-  {
-    "code": "CGD",
-    "place": "Golub Dobrzyń"
-  },
-  {
-    "code": "CIN",
-    "place": "Inowrocław"
-  },
-  {
-    "code": "CLI",
-    "place": "Lipno"
-  },
-  {
-    "code": "CMG",
-    "place": "Mogilno"
-  },
-  {
-    "code": "CNA",
-    "place": "Nakło nad Notecią"
-  },
-  {
-    "code": "CRA",
-    "place": "Radziejów"
-  },
-  {
-    "code": "CRY",
-    "place": "Rypin"
-  },
-  {
-    "code": "CSW",
-    "place": "Świecie"
-  },
-  {
-    "code": "CSE",
-    "place": "Sępólno Krajeńskie"
-  },
-  {
-    "code": "CT",
-    "place": "Toruń"
-  },
-  {
-    "code": "CTR",
-    "place": "Toruń (powiat)"
-  },
-  {
-    "code": "CTU",
-    "place": "Tuchola"
-  },
-  {
-    "code": "CWA",
-    "place": "Wąbrzeźno"
-  },
-  {
-    "code": "CWA",
-    "place": "Włocławek"
-  },
-  {
-    "code": "CWL",
-    "place": "Włocławek (powiat)"
-  },
-  {
-    "code": "CZN",
-    "place": "Wąbrzeźno"
-  },
-  {
-    "code": "DB",
-    "place": "Wałbrzych"
-  },
-  {
-    "code": "DBA",
-    "place": "Wałbrzych (powiat)"
-  },
-  {
-    "code": "DBL",
-    "place": "Bolesławiec"
-  },
-  {
-    "code": "DDZ",
-    "place": "Dzierżoniów"
-  },
-  {
-    "code": "DGL",
-    "place": "Głogów"
-  },
-  {
-    "code": "DGR",
-    "place": "Góra"
-  },
-  {
-    "code": "DJ",
-    "place": "Jelenia Góra"
-  },
-  {
-    "code": "DJA",
-    "place": "Jawor"
-  },
-  {
-    "code": "DJE",
-    "place": "Jelenia Góra (powiat)"
-  },
-  {
-    "code": "DKA",
-    "place": "Kamienna Góra"
-  },
-  {
-    "code": "DKL",
-    "place": "Kłodzko"
-  },
-  {
-    "code": "DL",
-    "place": "Legnica"
-  },
-  {
-    "code": "DLB",
-    "place": "Lubań"
-  },
-  {
-    "code": "DLE",
-    "place": "Legnica (powiat)"
-  },
-  {
-    "code": "DLU",
-    "place": "Lubin"
-  },
-  {
-    "code": "DLW",
-    "place": "Lwówek Śląski"
-  },
-  {
-    "code": "DMI",
-    "place": "Milicz"
-  },
-  {
-    "code": "DOA",
-    "place": "Oława"
-  },
-  {
-    "code": "DOL",
-    "place": "Oleśnica"
-  },
-  {
-    "code": "DPL",
-    "place": "Polkowice"
-  },
-  {
-    "code": "DSR",
-    "place": "Środa Śląska"
-  },
-  {
-    "code": "DST",
-    "place": "Strzelin"
-  },
-  {
-    "code": "DSW",
-    "place": "Świdnica"
-  },
-  {
-    "code": "DTR",
-    "place": "Trzebnica"
-  },
-  {
-    "code": "DW",
-    "place": "Wrocław"
-  },
-  {
-    "code": "DWL",
-    "place": "Wołow"
-  },
-  {
-    "code": "DWR",
-    "place": "Wrocław (powiat)"
-  },
-  {
-    "code": "DZA",
-    "place": "Ząbkowice Śląskie"
-  },
-  {
-    "code": "DZG",
-    "place": "Zgorzelec"
-  },
-  {
-    "code": "DZL",
-    "place": "Złotoryja"
-  },
-  {
-    "code": "EBE",
-    "place": "Bełchatów"
-  },
-  {
-    "code": "EBR",
-    "place": "Brzeziny"
-  },
-  {
-    "code": "EKU",
-    "place": "Kutno"
-  },
-  {
-    "code": "EL",
-    "place": "Łódź"
-  },
-  {
-    "code": "ELA",
-    "place": "Łask"
-  },
-  {
-    "code": "ELC",
-    "place": "Łowicz"
-  },
-  {
-    "code": "ELE",
-    "place": "Łęczyca"
-  },
-  {
-    "code": "ELW",
-    "place": "Łódź Wschód"
-  },
-  {
-    "code": "EOP",
-    "place": "Opoczno"
-  },
-  {
-    "code": "EP",
-    "place": "Piotrków Trybunalski"
-  },
-  {
-    "code": "EPA",
-    "place": "Pabianice"
-  },
-  {
-    "code": "EPD",
-    "place": "Poddębice"
-  },
-  {
-    "code": "EPI",
-    "place": "Piotrków Trybunalski (powiat)"
-  },
-  {
-    "code": "EPJ",
-    "place": "Pajęczno"
-  },
-  {
-    "code": "ERA",
-    "place": "Radomsko"
-  },
-  {
-    "code": "ERW",
-    "place": "Rawa Mazowiecka"
-  },
-  {
-    "code": "ES",
-    "place": "Skierniewice"
-  },
-  {
-    "code": "ESI",
-    "place": "Sieradz"
-  },
-  {
-    "code": "ESK",
-    "place": "Skierniewice"
-  },
-  {
-    "code": "ETM",
-    "place": "Tomaszów Mazowiecki"
-  },
-  {
-    "code": "EWE",
-    "place": "Wieruszów"
-  },
-  {
-    "code": "EWI",
-    "place": "Wieluń"
-  },
-  {
-    "code": "EZD",
-    "place": "Zduńska Wola"
-  },
-  {
-    "code": "EZG",
-    "place": "Zgierz"
-  },
-  {
-    "code": "FG",
-    "place": "Gorzów Wielkopolski"
-  },
-  {
-    "code": "FGW",
-    "place": "Gorzów WIelkopolski (powiat)"
-  },
-  {
-    "code": "FKR",
-    "place": "Krosno Odrzańskie"
-  },
-  {
-    "code": "FMI",
-    "place": "Międzyrzecz"
-  },
-  {
-    "code": "FNW",
-    "place": "Nowa Sól"
-  },
-  {
-    "code": "FSD",
-    "place": "Strzelce Krajeńskie"
-  },
-  {
-    "code": "FSL",
-    "place": "Słubice"
-  },
-  {
-    "code": "FSUU",
-    "place": "Sulęcin"
-  },
-  {
-    "code": "FSW",
-    "place": "Swiebodzin"
-  },
-  {
-    "code": "FWS",
-    "place": "Wschowa"
-  },
-  {
-    "code": "FZ",
-    "place": "Zielona Góra"
-  },
-  {
-    "code": "FZA",
-    "place": "Żary"
-  },
-  {
-    "code": "FZG",
-    "place": "Żagań"
-  },
-  {
-    "code": "FZI",
-    "place": "Zielona Góra (powiat)"
-  },
-  {
-    "code": "GA",
-    "place": "Gdynia"
-  },
-  {
-    "code": "GBY",
-    "place": "Bytów"
-  },
-  {
-    "code": "GCH",
-    "place": "Chojnice"
-  },
-  {
-    "code": "GCZ",
-    "place": "Człuchów"
-  },
-  {
-    "code": "GD",
-    "place": "Gdańsk"
-  },
-  {
-    "code": "GDA",
-    "place": "Gdańsk (powiat)"
-  },
-  {
-    "code": "GKA",
-    "place": "Kartuzy"
-  },
-  {
-    "code": "GKS",
-    "place": "Kościerzyna"
-  },
-  {
-    "code": "GKW",
-    "place": "Kwidzyn"
-  },
-  {
-    "code": "GLE",
-    "place": "Lębork"
-  },
-  {
-    "code": "GMB",
-    "place": "Malbork"
-  },
-  {
-    "code": "GND",
-    "place": "Nowy Dwór Gdański"
-  },
-  {
-    "code": "GPU",
-    "place": "Puck"
-  },
-  {
-    "code": "GS",
-    "place": "Słupsk"
-  },
-  {
-    "code": "GSL",
-    "place": "Słupsk (powiat)"
-  },
-  {
-    "code": "GSP",
-    "place": "Sopot"
-  },
-  {
-    "code": "GST",
-    "place": "Starogard Gdański"
-  },
-  {
-    "code": "GSZ",
-    "place": "Sztum"
-  },
-  {
-    "code": "GTC",
-    "place": "Tczew"
-  },
-  {
-    "code": "GWE",
-    "place": "Wejherowo"
-  },
-  {
-    "code": "KBC",
-    "place": "Bochnia"
-  },
-  {
-    "code": "KBR",
-    "place": "Brzesko"
-  },
-  {
-    "code": "KCH",
-    "place": "Chrzanów"
-  },
-  {
-    "code": "KDA",
-    "place": "Dąbrowa Tarnowska"
-  },
-  {
-    "code": "KGR",
-    "place": "Gorlice"
-  },
-  {
-    "code": "KLI",
-    "place": "Limanowa"
-  },
-  {
-    "code": "KMI",
-    "place": "Miechów"
-  },
-  {
-    "code": "KMY",
-    "place": "Myślenice"
-  },
-  {
-    "code": "KN",
-    "place": "Nowy Sącz"
-  },
-  {
-    "code": "KNS",
-    "place": "Nowy Sącz (powiat)"
-  },
-  {
-    "code": "KNT",
-    "place": "Nowy Targ"
-  },
-  {
-    "code": "KOL",
-    "place": "Olkusz"
-  },
-  {
-    "code": "KOS",
-    "place": "Oświęcim"
-  },
-  {
-    "code": "KPR",
-    "place": "Proszowice"
-  },
-  {
-    "code": "KR",
-    "place": "Kraków"
-  },
-  {
-    "code": "KRA",
-    "place": "Kraków (powiat)"
-  },
-  {
-    "code": "KSU",
-    "place": "Sucha Beskidzka"
-  },
-  {
-    "code": "KT",
-    "place": "Tarnów"
-  },
-  {
-    "code": "KTA",
-    "place": "Tarnów (powiat)"
-  },
-  {
-    "code": "KTT",
-    "place": "Zakopane"
-  },
-  {
-    "code": "KWA",
-    "place": "Wadowice"
-  },
-  {
-    "code": "KWI",
-    "place": "Wieliczka"
-  },
-  {
-    "code": "LB",
-    "place": "Biała Podlaska"
-  },
-  {
-    "code": "LBI",
-    "place": "Biała Podlaska (powiat)"
-  },
-  {
-    "code": "LBL",
-    "place": "Biłgoraj"
-  },
-  {
-    "code": "LC",
-    "place": "Chełm"
-  },
-  {
-    "code": "LCH",
-    "place": "Chełm (powiat)"
-  },
-  {
-    "code": "LHR",
-    "place": "Hrubieszów"
-  },
-  {
-    "code": "LJA",
-    "place": "Janów Lubelski"
-  },
-  {
-    "code": "LKR",
-    "place": "Kraśnik"
-  },
-  {
-    "code": "LKS",
-    "place": "Krasnystaw"
-  },
-  {
-    "code": "LLB",
-    "place": "Lubartów"
-  },
-  {
-    "code": "LLE",
-    "place": "Łęczna"
-  },
-  {
-    "code": "LLU",
-    "place": "Łuków"
-  },
-  {
-    "code": "LOP",
-    "place": "Opole Lubelskie"
-  },
-  {
-    "code": "LPA",
-    "place": "Parczew"
-  },
-  {
-    "code": "LPU",
-    "place": "Puławy"
-  },
-  {
-    "code": "LRA",
-    "place": "Radzyń Podlaski"
-  },
-  {
-    "code": "LRY",
-    "place": "Ryki"
-  },
-  {
-    "code": "LSW",
-    "place": "Świdnik"
-  },
-  {
-    "code": "LTM",
-    "place": "Tomaszów Lubelski"
-  },
-  {
-    "code": "LU",
-    "place": "Lublin"
-  },
-  {
-    "code": "LUB",
-    "place": "Lublin (powiat)"
-  },
-  {
-    "code": "LWL",
-    "place": "Włodawa"
-  },
-  {
-    "code": "LZ",
-    "place": "Zamość"
-  },
-  {
-    "code": "LZA",
-    "place": "Zamość (powiat)"
-  },
-  {
-    "code": "NBA",
-    "place": "Bartoszyce"
-  },
-  {
-    "code": "NBR",
-    "place": "Braniewo"
-  },
-  {
-    "code": "NDZ",
-    "place": "Działdowo"
-  },
-  {
-    "code": "NE",
-    "place": "Elbląg"
-  },
-  {
-    "code": "NEV",
-    "place": "Elbląg (powiat)"
-  },
-  {
-    "code": "NEL",
-    "place": "Ełk"
-  },
-  {
-    "code": "NGI",
-    "place": "Giżycko"
-  },
-  {
-    "code": "NGO",
-    "place": "Gołdap"
-  },
-  {
-    "code": "NIL",
-    "place": "Iława"
-  },
-  {
-    "code": "NKE",
-    "place": "Kętrzyn"
-  },
-  {
-    "code": "NLI",
-    "place": "Lidzbark Warmiński"
-  },
-  {
-    "code": "NMR",
-    "place": "Mrągowo"
-  },
-  {
-    "code": "NNI",
-    "place": "Nidzica"
-  },
-  {
-    "code": "NNI",
-    "place": "Nowe Miasto Lubawskie"
-  },
-  {
-    "code": "NO",
-    "place": "Olsztyn"
-  },
-  {
-    "code": "NOE",
-    "place": "Olecko"
-  },
-  {
-    "code": "NOG",
-    "place": "Olecko"
-  },
-  {
-    "code": "NOL",
-    "place": "Olsztyn (powiat)"
-  },
-  {
-    "code": "NOS",
-    "place": "Ostróda"
-  },
-  {
-    "code": "NPI",
-    "place": "Pisz"
-  },
-  {
-    "code": "NSZ",
-    "place": "Szczytno"
-  },
-  {
-    "code": "NWE",
-    "place": "Węgorzewo"
-  },
-  {
-    "code": "OB",
-    "place": "Brzeg"
-  },
-  {
-    "code": "OGL",
-    "place": "Głubczyce"
-  },
-  {
-    "code": "OK",
-    "place": "Kędzierzyn-Koźle"
-  },
-  {
-    "code": "OKL",
-    "place": "Kluczbork"
-  },
-  {
-    "code": "OKR",
-    "place": "Krapkowice"
-  },
-  {
-    "code": "ONA",
-    "place": "Namysłow"
-  },
-  {
-    "code": "ONY",
-    "place": "Nysa"
-  },
-  {
-    "code": "OOL",
-    "place": "Olesno"
-  },
-  {
-    "code": "OP",
-    "place": "Opole"
-  },
-  {
-    "code": "OPO",
-    "place": "Opole (powiat)"
-  },
-  {
-    "code": "OPR",
-    "place": "Prudnik"
-  },
-  {
-    "code": "OST",
-    "place": "Strzelce Opolskie"
-  },
-  {
-    "code": "PCH",
-    "place": "Chodzież"
-  },
-  {
-    "code": "PCT",
-    "place": "Czarnków"
-  },
-  {
-    "code": "PGN",
-    "place": "Gniezno"
-  },
-  {
-    "code": "PGO",
-    "place": "Grodzisk Wielkopolski"
-  },
-  {
-    "code": "PGS",
-    "place": "Gostyń"
-  },
-  {
-    "code": "PJA",
-    "place": "Jarocin"
-  },
-  {
-    "code": "PK",
-    "place": "Kalisz"
-  },
-  {
-    "code": "PKA",
-    "place": "Kalisz (powiat)"
-  },
-  {
-    "code": "PKE",
-    "place": "Kępno"
-  },
-  {
-    "code": "PKL",
-    "place": "Koło"
-  },
-  {
-    "code": "PKN",
-    "place": "Konin (powiat)"
-  },
-  {
-    "code": "PKO",
-    "place": "Konin"
-  },
-  {
-    "code": "PKR",
-    "place": "Krotoszyn"
-  },
-  {
-    "code": "PKS",
-    "place": "Kościan"
-  },
-  {
-    "code": "PL",
-    "place": "Leszno"
-  },
-  {
-    "code": "PLE",
-    "place": "Leszno (powiat)"
-  },
-  {
-    "code": "PMI",
-    "place": "Międzychód"
-  },
-  {
-    "code": "PN",
-    "place": "Konin"
-  },
-  {
-    "code": "PN",
-    "place": "Nowy Tomyśl"
-  },
-  {
-    "code": "PO",
-    "place": "Poznań"
-  },
-  {
-    "code": "POB",
-    "place": "Oborniki"
-  },
-  {
-    "code": "POS",
-    "place": "Ostrów Wielkopolski"
-  },
-  {
-    "code": "POT",
-    "place": "Ostrzeszów"
-  },
-  {
-    "code": "POZ",
-    "place": "Poznań (powiat)"
-  },
-  {
-    "code": "PP",
-    "place": "Piła"
-  },
-  {
-    "code": "PPL",
-    "place": "Pleszew"
-  },
-  {
-    "code": "PRA",
-    "place": "Rawicz"
-  },
-  {
-    "code": "PSE",
-    "place": "Śrem"
-  },
-  {
-    "code": "PSL",
-    "place": "Słupca"
-  },
-  {
-    "code": "PSR",
-    "place": "Środa Wielkopolska"
-  },
-  {
-    "code": "PSZ",
-    "place": "Szamotuły"
-  },
-  {
-    "code": "PTU",
-    "place": "TUrek"
-  },
-  {
-    "code": "PWA",
-    "place": "Wągrowiec"
-  },
-  {
-    "code": "PWL",
-    "place": "WOlsztyn"
-  },
-  {
-    "code": "PWR",
-    "place": "Września"
-  },
-  {
-    "code": "PZ",
-    "place": "Poznań (powiat)"
-  },
-  {
-    "code": "PZL",
-    "place": "Złotów"
-  },
-  {
-    "code": "RBI",
-    "place": "Ustrzyki Dolne"
-  },
-  {
-    "code": "RBR",
-    "place": "Brzozów"
-  },
-  {
-    "code": "RDE",
-    "place": "Dębica"
-  },
-  {
-    "code": "RJA",
-    "place": "Jarosław"
-  },
-  {
-    "code": "RJS",
-    "place": "Jasło"
-  },
-  {
-    "code": "RK",
-    "place": "Krosno"
-  },
-  {
-    "code": "RKL",
-    "place": "Kolbuszowa"
-  },
-  {
-    "code": "RKR",
-    "place": "Krosno (powiat)"
-  },
-  {
-    "code": "RLA",
-    "place": "Łańcut"
-  },
-  {
-    "code": "RLE",
-    "place": "Leżajsk"
-  },
-  {
-    "code": "RLS",
-    "place": "Lesko"
-  },
-  {
-    "code": "RLU",
-    "place": "Lubaczów"
-  },
-  {
-    "code": "RMI",
-    "place": "Mielec"
-  },
-  {
-    "code": "RNI",
-    "place": "Nisko"
-  },
-  {
-    "code": "RP",
-    "place": "Przemyśl"
-  },
-  {
-    "code": "RPR",
-    "place": "Przemyśl (powiat)"
-  },
-  {
-    "code": "RPZ",
-    "place": "Przeworsk"
-  },
-  {
-    "code": "RRS",
-    "place": "Ropczyce"
-  },
-  {
-    "code": "RSA",
-    "place": "Sanok"
-  },
-  {
-    "code": "RSR",
-    "place": "Strzyzów"
-  },
-  {
-    "code": "RST",
-    "place": "Stalowa Wola"
-  },
-  {
-    "code": "RT",
-    "place": "Tarnobrzeg"
-  },
-  {
-    "code": "RTA",
-    "place": "Tarnobrzeg (powiat)"
-  },
-  {
-    "code": "RZ",
-    "place": "Rzeszów"
-  },
-  {
-    "code": "RZE",
-    "place": "Rzeszów (powiat)"
-  },
-  {
-    "code": "SB",
-    "place": "Bielsko-Biała"
-  },
-  {
-    "code": "SBE",
-    "place": "Będzin"
-  },
-  {
-    "code": "SBI",
-    "place": "Bielsko-Biała (powiat)"
-  },
-  {
-    "code": "SBL",
-    "place": "Bieruńsko-Lędziński"
-  },
-  {
-    "code": "SC",
-    "place": "Częstochowa"
-  },
-  {
-    "code": "SCI",
-    "place": "Cieszyn"
-  },
-  {
-    "code": "SCZ",
-    "place": "Częstochowa (powiat)"
-  },
-  {
-    "code": "SD",
-    "place": "Dąbrowa Górnicza"
-  },
-  {
-    "code": "SG",
-    "place": "Gliwice"
-  },
-  {
-    "code": "SGL",
-    "place": "Gliwice (powiat)"
-  },
-  {
-    "code": "SH",
-    "place": "Chorzów"
-  },
-  {
-    "code": "SI",
-    "place": "Siemianowice Śląskie"
-  },
-  {
-    "code": "SJ",
-    "place": "Jaworzno"
-  },
-  {
-    "code": "SJZ",
-    "place": "Jastrzębie Zdrój"
-  },
-  {
-    "code": "SK",
-    "place": "Katowice"
-  },
-  {
-    "code": "SKL",
-    "place": "Kłobuck"
-  },
-  {
-    "code": "SL",
-    "place": "Ruda Śląska"
-  },
-  {
-    "code": "SLU",
-    "place": "Lubliniec"
-  },
-  {
-    "code": "SM",
-    "place": "Mysłowice"
-  },
-  {
-    "code": "SMI",
-    "place": "Mikołow"
-  },
-  {
-    "code": "SMY",
-    "place": "Myszków"
-  },
-  {
-    "code": "SO",
-    "place": "Sosnowiec"
-  },
-  {
-    "code": "SPI",
-    "place": "Piekary Śląskie"
-  },
-  {
-    "code": "SPS",
-    "place": "Pszczyna"
-  },
-  {
-    "code": "SR",
-    "place": "Rybnik"
-  },
-  {
-    "code": "SRB",
-    "place": "Rybnik (powiat)"
-  },
-  {
-    "code": "SRC",
-    "place": "Racibórz"
-  },
-  {
-    "code": "SRS",
-    "place": "Ruda Śląska"
-  },
-  {
-    "code": "ST",
-    "place": "Tychy"
-  },
-  {
-    "code": "STA",
-    "place": "Tarnowskie Góry"
-  },
-  {
-    "code": "STY",
-    "place": "Tychy (powiat)"
-  },
-  {
-    "code": "SW",
-    "place": "Świętochłowice"
-  },
-  {
-    "code": "SWD",
-    "place": "Wodzisław Śląski"
-  },
-  {
-    "code": "SY",
-    "place": "Bytom"
-  },
-  {
-    "code": "SZ",
-    "place": "Zabrze"
-  },
-  {
-    "code": "SZA",
-    "place": "Zawiercie"
-  },
-  {
-    "code": "SZO",
-    "place": "Żory"
-  },
-  {
-    "code": "SZY",
-    "place": "Żywiec"
-  },
-  {
-    "code": "TBU",
-    "place": "Busko Zdrój"
-  },
-  {
-    "code": "TJE",
-    "place": "Jędrzejów"
-  },
-  {
-    "code": "TK",
-    "place": "Kielce"
-  },
-  {
-    "code": "TKA",
-    "place": "Kazimierza Wielka"
-  },
-  {
-    "code": "TKI",
-    "place": "Kielce (powiat)"
-  },
-  {
-    "code": "TKN",
-    "place": "Końskie"
-  },
-  {
-    "code": "TLW",
-    "place": "Włoszczowa"
-  },
-  {
-    "code": "TOP",
-    "place": "Opatów"
-  },
-  {
-    "code": "TOS",
-    "place": "Ostrowiec Świętokrzyski"
-  },
-  {
-    "code": "TPI",
-    "place": "Pińczów"
-  },
-  {
-    "code": "TSA",
-    "place": "Sandomierz"
-  },
-  {
-    "code": "TSK",
-    "place": "Skarżysko-Kamienna"
-  },
-  {
-    "code": "TST",
-    "place": "Starachowice"
-  },
-  {
-    "code": "TSZ",
-    "place": "Staszów"
-  },
-  {
-    "code": "WA",
-    "place": "Warszawa Białołęka"
-  },
-  {
-    "code": "WB",
-    "place": "Warszawa Bemowo"
-  },
-  {
-    "code": "WD",
-    "place": "Warszawa Bielany"
-  },
-  {
-    "code": "WE",
-    "place": "Warszawa Mokotów"
-  },
-  {
-    "code": "WF",
-    "place": "Warszawa Praga-Południe"
-  },
-  {
-    "code": "WH",
-    "place": "Warszawa Praga-Północ"
-  },
-  {
-    "code": "WI",
-    "place": "Warszawa Śródmieście"
-  },
-  {
-    "code": "WJ",
-    "place": "Warszawa Targówek"
-  },
-  {
-    "code": "WK",
-    "place": "Warszawa Ursus"
-  },
-  {
-    "code": "WN",
-    "place": "Warszawa Ursynów"
-  },
-  {
-    "code": "WT",
-    "place": "Warszawa Wawer"
-  },
-  {
-    "code": "WU",
-    "place": "Warszawa Ochota"
-  },
-  {
-    "code": "WZ",
-    "place": "Warszawa Zachód"
-  },
-  {
-    "code": "WBR",
-    "place": "Białobrzegi"
-  },
-  {
-    "code": "WCI",
-    "place": "Ciechanów"
-  },
-  {
-    "code": "WG",
-    "place": "Garwolin"
-  },
-  {
-    "code": "WGM",
-    "place": "Grodzisk Mazowiecki"
-  },
-  {
-    "code": "WGR",
-    "place": "Grójec"
-  },
-  {
-    "code": "WGS",
-    "place": "Gostynin"
-  },
-  {
-    "code": "WKZ",
-    "place": "Kozienice"
-  },
-  {
-    "code": "WL",
-    "place": "Legionowo"
-  },
-  {
-    "code": "WLI",
-    "place": "Lipsko"
-  },
-  {
-    "code": "WLS",
-    "place": "Łosice"
-  },
-  {
-    "code": "WM",
-    "place": "Mińsk Mazowiecki"
-  },
-  {
-    "code": "WMA",
-    "place": "Maków Mazowiecki"
-  },
-  {
-    "code": "WML",
-    "place": "Mława"
-  },
-  {
-    "code": "WND",
-    "place": "Nowy Dwór Mazowiecki"
-  },
-  {
-    "code": "WO",
-    "place": "Ostrołęka"
-  },
-  {
-    "code": "WOR",
-    "place": "Ostrów Mazowiecka"
-  },
-  {
-    "code": "WOS",
-    "place": "Ostrołęka (powiat)"
-  },
-  {
-    "code": "WOT",
-    "place": "Otwock"
-  },
-  {
-    "code": "WP",
-    "place": "Płock"
-  },
-  {
-    "code": "WPI",
-    "place": "Piaseczno"
-  },
-  {
-    "code": "WPL",
-    "place": "Płock (powiat)"
-  },
-  {
-    "code": "WPN",
-    "place": "Płońsk"
-  },
-  {
-    "code": "WPR",
-    "place": "Pruszków"
-  },
-  {
-    "code": "WPU",
-    "place": "Pułtusk"
-  },
-  {
-    "code": "WPY",
-    "place": "Przysucha"
-  },
-  {
-    "code": "WPZ",
-    "place": "Przasnysz"
-  },
-  {
-    "code": "WR",
-    "place": "Radom"
-  },
-  {
-    "code": "WRA",
-    "place": "Radom (powiat)"
-  },
-  {
-    "code": "WS",
-    "place": "Siedlce"
-  },
-  {
-    "code": "WSC",
-    "place": "Sochaczew"
-  },
-  {
-    "code": "WSE",
-    "place": "Sierpc"
-  },
-  {
-    "code": "WSK",
-    "place": "Sokołów Podlaski"
-  },
-  {
-    "code": "WSI",
-    "place": "Siedlce (powiat)"
-  },
-  {
-    "code": "WSZ",
-    "place": "Szydłowiec"
-  },
-  {
-    "code": "WV",
-    "place": "Wołomin"
-  },
-  {
-    "code": "WWE",
-    "place": "Węgrów"
-  },
-  {
-    "code": "WWL",
-    "place": "Wołomin"
-  },
-  {
-    "code": "WWY",
-    "place": "Wyszków"
-  },
-  {
-    "code": "WZU",
-    "place": "Żuromin"
-  },
-  {
-    "code": "WZW",
-    "place": "Zwoleń"
-  },
-  {
-    "code": "WZY",
-    "place": "Żyrardów"
-  },
-  {
-    "code": "ZBI",
-    "place": "Białogard"
-  },
-  {
-    "code": "ZCH",
-    "place": "Choszczno"
-  },
-  {
-    "code": "ZDR",
-    "place": "Drawsko Pomorskie"
-  },
-  {
-    "code": "ZGL",
-    "place": "Goleniów"
-  },
-  {
-    "code": "ZGR",
-    "place": "Gryfino"
-  },
-  {
-    "code": "ZGY",
-    "place": "Gryfice"
-  },
-  {
-    "code": "ZK",
-    "place": "Koszalin"
-  },
-  {
-    "code": "ZKA",
-    "place": "Kamień Pomorski"
-  },
-  {
-    "code": "ZKL",
-    "place": "Kołobrzeg"
-  },
-  {
-    "code": "ZKO",
-    "place": "Koszalin (powiat)"
-  },
-  {
-    "code": "ZLO",
-    "place": "Łobez"
-  },
-  {
-    "code": "ZMY",
-    "place": "Myślibórz"
-  },
-  {
-    "code": "ZPL",
-    "place": "Police"
-  },
-  {
-    "code": "ZPY",
-    "place": "Przyce"
-  },
-  {
-    "code": "ZS",
-    "place": "Szczecin"
-  },
-  {
-    "code": "ZSD",
-    "place": "Świdwin"
-  },
-  {
-    "code": "ZSL",
-    "place": "Sławno"
-  },
-  {
-    "code": "ZST",
-    "place": "Stargard Sczeciński"
-  },
-  {
-    "code": "ZSW",
-    "place": "Świnoujście"
-  },
-  {
-    "code": "ZSZ",
-    "place": "Szczecinek"
-  },
-  {
-    "code": "ZWA",
-    "place": "Wałcz"
-  },
-  {
-    "code": "U",
-    "place": "wojska MSWiA"
-  },
-  {
-    "code": "HB",
-    "place": "Biuro Ochrony Rządu"
-  },
-  {
-    "code": "HK",
-    "place": "Agencja Bezpieczeństwa Wewnętrznego i Agencja Wywiadu"
-  },
-  {
-    "code": "HM",
-    "place": "Służba Wywiadu Wojskowego i Służba Kontrwywiadu Wojskowego"
-  },
-  {
-    "code": "HP",
-    "place": "Policja"
-  },
-  {
-    "code": "HS",
-    "place": "Kontrola Skarbowa"
-  },
-  {
-    "code": "HW",
-    "place": "Straż Graniczna"
-  }
+[{
+  "code": "BAU",
+  "city": "Augustów",
+  "lat": 53.84985374536071,
+  "lng": 22.999172818035788
+},{
+  "code": "BBI",
+  "city": "Bielsk Podlaski",
+  "lat": 52.76574392182241,
+  "lng": 23.18935136234132
+},{
+  "code": "BGR",
+  "city": "Grajewo",
+  "lat": 53.64237992772013,
+  "lng": 22.455351209688843
+},{
+  "code": "BHA",
+  "city": "Hajnówka",
+  "lat": 52.73592960993122,
+  "lng": 23.57306466438564
+},{
+  "code": "BI",
+  "city": "Białystok",
+  "lat": 53.13831566068026,
+  "lng": 23.160184223692315
+},{
+  "code": "BIA",
+  "city": "Białystok",
+  "lat": 53.13831566068027,
+  "lng": 23.160184223692316
+},{
+  "code": "BKL",
+  "city": "Kolno",
+  "lat": 53.403720846806515,
+  "lng": 21.934641432938225
+},{
+  "code": "BL",
+  "city": "Łomża",
+  "lat": 53.17308770543835,
+  "lng": 22.063628306599455
+},{
+  "code": "BLM",
+  "city": "Łomża",
+  "lat": 53.17308770543836,
+  "lng": 22.063628306599456
+},{
+  "code": "BMN",
+  "city": "Mońki",
+  "lat": 53.405959933026494,
+  "lng": 22.797741905029568
+},{
+  "code": "BS",
+  "city": "Suwałki",
+  "lat": 54.10844516669051,
+  "lng": 22.931560409220605
+},{
+  "code": "BSE",
+  "city": "Sejny",
+  "lat": 54.10979267019384,
+  "lng": 23.34880738243897
+},{
+  "code": "BSI",
+  "city": "Siemiatycze",
+  "lat": 52.42485993138778,
+  "lng": 22.864521612134986
+},{
+  "code": "BSK",
+  "city": "Sokółka",
+  "lat": 53.409998960495656,
+  "lng": 23.506175833418702
+},{
+  "code": "BSU",
+  "city": "Suwałki",
+  "lat": 54.10844516669051,
+  "lng": 22.931560409220605
+},{
+  "code": "BWM",
+  "city": "Wysokie Mazowieckie",
+  "lat": 52.92543064359085,
+  "lng": 22.51055571579679
+},{
+  "code": "BZA",
+  "city": "Zambrów",
+  "lat": 52.9884534924507,
+  "lng": 22.243639682087107
+},{
+  "code": "CAL",
+  "city": "Aleksandrów Kujawski",
+  "lat": 52.877372897106596,
+  "lng": 18.69381784951627
+},{
+  "code": "CB",
+  "city": "Bydgoszcz",
+  "lat": 53.13514224418704,
+  "lng": 18.010715082840385
+},{
+  "code": "CBR",
+  "city": "Brodnica",
+  "lat": 53.254190360220136,
+  "lng": 19.399152065997168
+},{
+  "code": "CBY",
+  "city": "Bydgoszcz (powiat)",
+  "lat": 53.13514224418704,
+  "lng": 18.010715082840385
+},{
+  "code": "CCH",
+  "city": "Chełmno",
+  "lat": 53.3503710752514,
+  "lng": 18.425003309457228
+},{
+  "code": "CG",
+  "city": "Grudziądz",
+  "lat": 53.47863284761382,
+  "lng": 18.774074743179604
+},{
+  "code": "CGD",
+  "city": "Golub Dobrzyń",
+  "lat": 53.10877027785821,
+  "lng": 19.054033424911896
+},{
+  "code": "CIN",
+  "city": "Inowrocław",
+  "lat": 52.79071340070739,
+  "lng": 18.257467646529427
+},{
+  "code": "CLI",
+  "city": "Lipno",
+  "lat": 52.84601914564407,
+  "lng": 19.179749064752276
+},{
+  "code": "CMG",
+  "city": "Mogilno",
+  "lat": 52.66034151575898,
+  "lng": 17.95072188206996
+},{
+  "code": "CNA",
+  "city": "Nakło nad Notecią",
+  "lat": 53.14063976819496,
+  "lng": 17.598884235212235
+},{
+  "code": "CRA",
+  "city": "Radziejów",
+  "lat": 52.62220801551241,
+  "lng": 18.52798998085754
+},{
+  "code": "CRY",
+  "city": "Rypin",
+  "lat": 53.0693492753219,
+  "lng": 19.417634511205762
+},{
+  "code": "CSW",
+  "city": "Świecie",
+  "lat": 53.40589697075739,
+  "lng": 18.422407042469363
+},{
+  "code": "CSE",
+  "city": "Sępólno Krajeńskie",
+  "lat": 53.45143476568427,
+  "lng": 17.535173052796242
+},{
+  "code": "CT",
+  "city": "Toruń",
+  "lat": 53.033815861409856,
+  "lng": 18.618369961142957
+},{
+  "code": "CTR",
+  "city": "Toruń (powiat)",
+  "lat": 53.033815861409857,
+  "lng": 18.618369961142958
+},{
+  "code": "CTU",
+  "city": "Tuchola",
+  "lat": 53.58459170357936,
+  "lng": 17.86566450929566
+},{
+  "code": "CWA",
+  "city": "Wąbrzeźno",
+  "lat": 53.280193330894164,
+  "lng": 18.947013883198863
+},{
+  "code": "CWA",
+  "city": "Włocławek",
+  "lat": 52.65305624768346,
+  "lng": 19.0735065917077
+},{
+  "code": "CWL",
+  "city": "Włocławek (powiat)",
+  "lat": 52.65305624768347,
+  "lng": 19.0735065917078
+},{
+  "code": "CZN",
+  "city": "Wąbrzeźno (powiat)",
+  "lat": 53.280193330894164,
+  "lng": 18.947013883198863
+},{
+  "code": "DB",
+  "city": "Wałbrzych",
+  "lat": 50.77082566842443,
+  "lng": 16.27494761865809
+},{
+  "code": "DBA",
+  "city": "Wałbrzych (powiat)",
+  "lat": 50.77082566842443,
+  "lng": 16.27494761865809
+},{
+  "code": "DBL",
+  "city": "Bolesławiec",
+  "lat": 51.26359617634765,
+  "lng": 15.559348792350155
+},{
+  "code": "DDZ",
+  "city": "Dzierżoniów",
+  "lat": 50.73141263127149,
+  "lng": 16.645609761311086
+},{
+  "code": "DGL",
+  "city": "Głogów",
+  "lat": 51.66211569759359,
+  "lng": 16.088896376959813
+},{
+  "code": "DGR",
+  "city": "Góra",
+  "lat": 51.66903688078943,
+  "lng": 16.551049124588737
+},{
+  "code": "DJ",
+  "city": "Jelenia Góra",
+  "lat": 50.881282883209316,
+  "lng": 15.718253638642835
+},{
+  "code": "DJA",
+  "city": "Jawor",
+  "lat": 51.05296045912152,
+  "lng": 16.198476481848928
+},{
+  "code": "DJE",
+  "city": "Jelenia Góra (powiat)",
+  "lat": 50.881282883209316,
+  "lng": 15.718253638642835
+},{
+  "code": "DKA",
+  "city": "Kamienna Góra",
+  "lat": 50.78288771593383,
+  "lng": 16.028574402588255
+},{
+  "code": "DKL",
+  "city": "Kłodzko",
+  "lat": 50.44193844496196,
+  "lng": 16.650039511505263
+},{
+  "code": "DL",
+  "city": "Legnica",
+  "lat": 51.20490122956881,
+  "lng": 16.161875110144088
+},{
+  "code": "DLB",
+  "city": "Lubań",
+  "lat": 51.120612721819995,
+  "lng": 15.290352130388815
+},{
+  "code": "DLE",
+  "city": "Legnica (powiat)",
+  "lat": 51.20490122956881,
+  "lng": 16.161875110144088
+},{
+  "code": "DLU",
+  "city": "Lubin",
+  "lat": 51.40293846663393,
+  "lng": 16.191893750189088
+},{
+  "code": "DLW",
+  "city": "Lwówek Śląski",
+  "lat": 51.110222444132646,
+  "lng": 15.581973940728902
+},{
+  "code": "DMI",
+  "city": "Milicz",
+  "lat": 51.52539099854256,
+  "lng": 17.272400666365254
+},{
+  "code": "DOA",
+  "city": "Oława",
+  "lat": 50.952477822234385,
+  "lng": 17.2875478424934
+},{
+  "code": "DOL",
+  "city": "Oleśnica",
+  "lat": 51.21354877019862,
+  "lng": 17.37690711704222
+},{
+  "code": "DPL",
+  "city": "Polkowice",
+  "lat": 51.06002448681496,
+  "lng": 18.340334145769173
+},{
+  "code": "DSR",
+  "city": "Środa Śląska",
+  "lat": 51.1666242082095,
+  "lng": 16.593393893032488
+},{
+  "code": "DST",
+  "city": "Strzelin",
+  "lat": 50.78119912916053,
+  "lng": 17.07292148097667
+},{
+  "code": "DSW",
+  "city": "Świdnica",
+  "lat": 50.846125919660224,
+  "lng": 16.484901043950202
+},{
+  "code": "DTR",
+  "city": "Trzebnica",
+  "lat": 51.30654659692948,
+  "lng": 17.05931581258157
+},{
+  "code": "DW",
+  "city": "Wrocław",
+  "lat": 51.10960079595778,
+  "lng": 17.036837619195843
+},{
+  "code": "DWL",
+  "city": "Wołow",
+  "lat": 51.34344031410334,
+  "lng": 16.639832976994885
+},{
+  "code": "DWR",
+  "city": "Wrocław (powiat)",
+  "lat": 51.10960079595778,
+  "lng": 17.036837619195843
+},{
+  "code": "DZA",
+  "city": "Ząbkowice Śląskie",
+  "lat": 50.590401752758744,
+  "lng": 16.81372048293715
+},{
+  "code": "DZG",
+  "city": "Zgorzelec",
+  "lat": 51.15158747249235,
+  "lng": 15.007489775717335
+},{
+  "code": "DZL",
+  "city": "Złotoryja",
+  "lat": 51.127180332225976,
+  "lng": 15.91819231112637
+},{
+  "code": "EBE",
+  "city": "Bełchatów",
+  "lat": 51.367322087311784,
+  "lng": 19.35956605441441
+},{
+  "code": "EBR",
+  "city": "Brzeziny",
+  "lat": 51.8050728505015,
+  "lng": 19.74688446233235
+},{
+  "code": "EKU",
+  "city": "Kutno",
+  "lat": 52.230916625303834,
+  "lng": 19.36165154023889
+},{
+  "code": "EL",
+  "city": "Łódź",
+  "lat": 51.76183635128168,
+  "lng": 19.45655842008188
+},{
+  "code": "ELA",
+  "city": "Łask",
+  "lat": 51.59984451476009,
+  "lng": 19.151119272113085
+},{
+  "code": "ELC",
+  "city": "Łowicz",
+  "lat": 52.1048262828986,
+  "lng": 19.9365621302642
+},{
+  "code": "ELE",
+  "city": "Łęczyca",
+  "lat": 51.99600002692765,
+  "lng": 15.474543503571521
+},{
+  "code": "ELW",
+  "city": "Łódź Wschód",
+  "lat": 51.758011309279084,
+  "lng": 19.57946795599758
+},{
+  "code": "EOP",
+  "city": "Opoczno",
+  "lat": 51.378123967601745,
+  "lng": 20.27337351820704
+},{
+  "code": "EP",
+  "city": "Piotrków Trybunalski",
+  "lat": 51.40705273909445,
+  "lng": 19.688974779921956
+},{
+  "code": "EPA",
+  "city": "Pabianice",
+  "lat": 51.66024676628485,
+  "lng": 19.360620347526844
+},{
+  "code": "EPD",
+  "city": "Poddębice",
+  "lat": 51.89538044802436,
+  "lng": 18.954405951165477
+},{
+  "code": "EPI",
+  "city": "Piotrków Trybunalski (powiat)",
+  "lat": 51.40705273909445,
+  "lng": 19.688974779921956
+},{
+  "code": "EPJ",
+  "city": "Pajęczno",
+  "lat": 51.14407297060715,
+  "lng": 18.993354800583926
+},{
+  "code": "ERA",
+  "city": "Radomsko",
+  "lat": 51.07109050504635,
+  "lng": 19.439614756938568
+},{
+  "code": "ERW",
+  "city": "Rawa Mazowiecka",
+  "lat": 51.76534552728254,
+  "lng": 20.252040807314394
+},{
+  "code": "ES",
+  "city": "Skierniewice",
+  "lat": 51.96047066218464,
+  "lng": 20.14702949746315
+},{
+  "code": "ESI",
+  "city": "Sieradz",
+  "lat": 51.594180652328745,
+  "lng": 18.725186474406094
+},{
+  "code": "ESK",
+  "city": "Skierniewice",
+  "lat": 51.96047066218464,
+  "lng": 20.14702949746315
+},{
+  "code": "ETM",
+  "city": "Tomaszów Mazowiecki",
+  "lat": 51.528870030359265,
+  "lng": 20.01225222837453
+},{
+  "code": "EWE",
+  "city": "Wieruszów",
+  "lat": 51.295318966816794,
+  "lng": 18.153685631879004
+},{
+  "code": "EWI",
+  "city": "Wieluń",
+  "lat": 51.21992379191429,
+  "lng": 18.56855525561988
+},{
+  "code": "EZD",
+  "city": "Zduńska Wola",
+  "lat": 51.59746426363048,
+  "lng": 18.945428624065418
+},{
+  "code": "EZG",
+  "city": "Zgierz",
+  "lat": 51.85499034312268,
+  "lng": 19.403381360606122
+},{
+  "code": "FG",
+  "city": "Gorzów Wielkopolski",
+  "lat": 52.73193086788401,
+  "lng": 15.222353790213358
+},{
+  "code": "FGW",
+  "city": "Gorzów WIelkopolski (powiat)",
+  "lat": 52.73193086788402,
+  "lng": 15.222353790213359
+},{
+  "code": "FKR",
+  "city": "Krosno Odrzańskie",
+  "lat": 52.05211296977473,
+  "lng": 15.0984139000319
+},{
+  "code": "FMI",
+  "city": "Międzyrzecz",
+  "lat": 52.44571179817552,
+  "lng": 15.57980283378122
+},{
+  "code": "FNW",
+  "city": "Nowa Sól",
+  "lat": 51.8033713754853,
+  "lng": 15.695709504387109
+},{
+  "code": "FSD",
+  "city": "Strzelce Krajeńskie",
+  "lat": 52.87867379531341,
+  "lng": 15.523720107506048
+},{
+  "code": "FSL",
+  "city": "Słubice",
+  "lat": 52.35238150799565,
+  "lng": 14.566080087717884
+},{
+  "code": "FSUU",
+  "city": "Sulęcin",
+  "lat": 52.443836653807026,
+  "lng": 15.115534214844109
+},{
+  "code": "FSW",
+  "city": "Swiebodzin",
+  "lat": 52.248299764044624,
+  "lng": 15.533971806650557
+},{
+  "code": "FWS",
+  "city": "Wschowa",
+  "lat": 51.80526590489372,
+  "lng": 16.313599258969706
+},{
+  "code": "FZ",
+  "city": "Zielona Góra",
+  "lat": 51.94407705628825,
+  "lng": 15.50181873379127
+},{
+  "code": "FZA",
+  "city": "Żary",
+  "lat": 51.63477585969906,
+  "lng": 15.138772062663845
+},{
+  "code": "FZG",
+  "city": "Żagań",
+  "lat": 51.61986628349213,
+  "lng": 15.30523919652491
+},{
+  "code": "FZI",
+  "city": "Zielona Góra (powiat)",
+  "lat": 51.94407705628825,
+  "lng": 15.50181873379127
+},{
+  "code": "GA",
+  "city": "Gdynia",
+  "lat": 54.52014794388472,
+  "lng": 18.53008218413139
+},{
+  "code": "GBY",
+  "city": "Bytów",
+  "lat": 54.169202760357486,
+  "lng": 17.48980131376603
+},{
+  "code": "GCH",
+  "city": "Chojnice",
+  "lat": 53.69307699531832,
+  "lng": 17.559422839688835
+},{
+  "code": "GCZ",
+  "city": "Człuchów",
+  "lat": 53.66382985963927,
+  "lng": 17.354742449847592
+},{
+  "code": "GD",
+  "city": "Gdańsk",
+  "lat": 54.36840730271335,
+  "lng": 18.572948332851254
+},{
+  "code": "GDA",
+  "city": "Gdańsk (powiat)",
+  "lat": 54.36840730271336,
+  "lng": 18.572948332851255
+},{
+  "code": "GKA",
+  "city": "Kartuzy",
+  "lat": 54.33308585495894,
+  "lng": 18.194110751050008
+},{
+  "code": "GKS",
+  "city": "Kościerzyna",
+  "lat": 54.12136914005477,
+  "lng": 17.979580846114626
+},{
+  "code": "GKW",
+  "city": "Kwidzyn",
+  "lat": 53.72570374070516,
+  "lng": 18.93329249216205
+},{
+  "code": "GLE",
+  "city": "Lębork",
+  "lat": 54.538674297289646,
+  "lng": 17.744811130078723
+},{
+  "code": "GMB",
+  "city": "Malbork",
+  "lat": 54.03620981838226,
+  "lng": 19.035392394444074
+},{
+  "code": "GND",
+  "city": "Nowy Dwór Gdański",
+  "lat": 54.21122088255606,
+  "lng": 19.11806413945571
+},{
+  "code": "GPU",
+  "city": "Puck",
+  "lat": 54.716068648565965,
+  "lng": 18.402305644940004
+},{
+  "code": "GS",
+  "city": "Słupsk",
+  "lat": 54.463490116636905,
+  "lng": 17.023843747665502
+},{
+  "code": "GSL",
+  "city": "Słupsk (powiat)",
+  "lat": 54.463490116636906,
+  "lng": 17.023843747665503
+},{
+  "code": "GSP",
+  "city": "Sopot",
+  "lat": 54.440676742018674,
+  "lng": 18.548712105780893
+},{
+  "code": "GST",
+  "city": "Starogard Gdański",
+  "lat": 53.969635133083834,
+  "lng": 18.52329580077412
+},{
+  "code": "GSZ",
+  "city": "Sztum",
+  "lat": 53.92251447408643,
+  "lng": 19.030424192339538
+},{
+  "code": "GTC",
+  "city": "Tczew",
+  "lat": 54.09218835160001,
+  "lng": 18.779725447162992
+},{
+  "code": "GWE",
+  "city": "Wejherowo",
+  "lat": 54.60455688312399,
+  "lng": 18.23584598054573
+},{
+  "code": "KBC",
+  "city": "Bochnia",
+  "lat": 49.968329566627396,
+  "lng": 20.42284711738975
+},{
+  "code": "KBR",
+  "city": "Brzesko",
+  "lat": 49.97728071015677,
+  "lng": 20.60721718752948
+},{
+  "code": "KCH",
+  "city": "Chrzanów",
+  "lat": 50.134607816203996,
+  "lng": 19.398523586481417
+},{
+  "code": "KDA",
+  "city": "Dąbrowa Tarnowska",
+  "lat": 50.173072622181095,
+  "lng": 20.985030478800102
+},{
+  "code": "KGR",
+  "city": "Gorlice",
+  "lat": 49.66182518239504,
+  "lng": 21.16073630386144
+},{
+  "code": "KLI",
+  "city": "Limanowa",
+  "lat": 49.712536785068565,
+  "lng": 20.415287826899682
+},{
+  "code": "KMI",
+  "city": "Miechów",
+  "lat": 50.36143135875688,
+  "lng": 20.025312282509706
+},{
+  "code": "KMY",
+  "city": "Myślenice",
+  "lat": 49.82667808386962,
+  "lng": 19.93530812999268
+},{
+  "code": "KN",
+  "city": "Nowy Sącz",
+  "lat": 49.612721147779986,
+  "lng": 20.6983907395294
+},{
+  "code": "KNS",
+  "city": "Nowy Sącz (powiat)",
+  "lat": 49.612721147779986,
+  "lng": 20.6983907395294
+},{
+  "code": "KNT",
+  "city": "Nowy Targ",
+  "lat": 49.49082332478221,
+  "lng": 20.02470563450901
+},{
+  "code": "KOL",
+  "city": "Olkusz",
+  "lat": 50.28231104342562,
+  "lng": 19.562981330905973
+},{
+  "code": "KOS",
+  "city": "Oświęcim",
+  "lat": 50.03345438549026,
+  "lng": 19.223753265641452
+},{
+  "code": "KPR",
+  "city": "Proszowice",
+  "lat": 50.189133460776176,
+  "lng": 20.290619590168816
+},{
+  "code": "KR",
+  "city": "Kraków",
+  "lat": 50.062103740777125,
+  "lng": 19.943835206731464
+},{
+  "code": "KRA",
+  "city": "Kraków (powiat)",
+  "lat": 50.062103740777126,
+  "lng": 19.943835206731465
+},{
+  "code": "KSU",
+  "city": "Sucha Beskidzka",
+  "lat": 49.73865082820376,
+  "lng": 19.583067827022028
+},{
+  "code": "KT",
+  "city": "Tarnów",
+  "lat": 50.02613848176823,
+  "lng": 20.97827899044792
+},{
+  "code": "KTA",
+  "city": "Tarnów (powiat)",
+  "lat": 50.02613848176824,
+  "lng": 20.97827899044793
+},{
+  "code": "KTT",
+  "city": "Zakopane",
+  "lat": 49.27654210090804,
+  "lng": 19.95911121204712
+},{
+  "code": "KWA",
+  "city": "Wadowice",
+  "lat": 49.88653883700414,
+  "lng": 19.485399420348934
+},{
+  "code": "KWI",
+  "city": "Wieliczka",
+  "lat": 49.992798989042264,
+  "lng": 20.035380763713157
+},{
+  "code": "LB",
+  "city": "Biała Podlaska",
+  "lat": 52.03273157604563,
+  "lng": 23.140340250160452
+},{
+  "code": "LBI",
+  "city": "Biała Podlaska (powiat)",
+  "lat": 52.03273157604564,
+  "lng": 23.140340250160453
+},{
+  "code": "LBL",
+  "city": "Biłgoraj",
+  "lat": 50.540075685799806,
+  "lng": 22.713641116779687
+},{
+  "code": "LC",
+  "city": "Chełm",
+  "lat": 51.14053260113063,
+  "lng": 23.478718930151096
+},{
+  "code": "LCH",
+  "city": "Chełm (powiat)",
+  "lat": 51.14053260113064,
+  "lng": 23.478718930151097
+},{
+  "code": "LHR",
+  "city": "Hrubieszów",
+  "lat": 50.801562462592685,
+  "lng": 23.884953002791555
+},{
+  "code": "LJA",
+  "city": "Janów Lubelski",
+  "lat": 50.70311737290186,
+  "lng": 22.408513444485788
+},{
+  "code": "LKR",
+  "city": "Kraśnik",
+  "lat": 50.94459456650268,
+  "lng": 22.202807924235355
+},{
+  "code": "LKS",
+  "city": "Krasnystaw",
+  "lat": 50.99189771520966,
+  "lng": 23.174307651797676
+},{
+  "code": "LLB",
+  "city": "Lubartów",
+  "lat": 51.46052797000148,
+  "lng": 22.60770913468557
+},{
+  "code": "LLE",
+  "city": "Łęczna",
+  "lat": 51.297655284164634,
+  "lng": 22.88421589039479
+},{
+  "code": "LLU",
+  "city": "Łuków",
+  "lat": 51.93090767951261,
+  "lng": 22.378769972162296
+},{
+  "code": "LOP",
+  "city": "Opole Lubelskie",
+  "lat": 51.14893068469878,
+  "lng": 21.96266756573373
+},{
+  "code": "LPA",
+  "city": "Parczew",
+  "lat": 51.634797493610186,
+  "lng": 22.897901050645213
+},{
+  "code": "LPU",
+  "city": "Puławy",
+  "lat": 51.4284964524845,
+  "lng": 21.977412732563298
+},{
+  "code": "LRA",
+  "city": "Radzyń Podlaski",
+  "lat": 51.7789225776758,
+  "lng": 22.624626336988563
+},{
+  "code": "LRY",
+  "city": "Ryki",
+  "lat": 51.625491442058376,
+  "lng": 21.929844572241617
+},{
+  "code": "LSW",
+  "city": "Świdnik",
+  "lat": 51.220063467098235,
+  "lng": 22.679062028449458
+},{
+  "code": "LTM",
+  "city": "Tomaszów Lubelski",
+  "lat": 50.450174446358275,
+  "lng": 23.43081470650446
+},{
+  "code": "LU",
+  "city": "Lublin",
+  "lat": 51.23485838788003,
+  "lng": 22.543855926617294
+},{
+  "code": "LUB",
+  "city": "Lublin (powiat)",
+  "lat": 51.23485838788004,
+  "lng": 22.543855926617295
+},{
+  "code": "LWL",
+  "city": "Włodawa",
+  "lat": 51.543682842726746,
+  "lng": 23.529522087581526
+},{
+  "code": "LZ",
+  "city": "Zamość",
+  "lat": 50.72289871571666,
+  "lng": 23.25761025667914
+},{
+  "code": "LZA",
+  "city": "Zamość (powiat)",
+  "lat": 50.72289871571667,
+  "lng": 23.25761025667915
+},{
+  "code": "NBA",
+  "city": "Bartoszyce",
+  "lat": 54.25238072825214,
+  "lng": 20.80633571453965
+},{
+  "code": "NBR",
+  "city": "Braniewo",
+  "lat": 54.379863372199466,
+  "lng": 19.820720753856794
+},{
+  "code": "NDZ",
+  "city": "Działdowo",
+  "lat": 53.24227942382728,
+  "lng": 20.17454062949696
+},{
+  "code": "NE",
+  "city": "Elbląg",
+  "lat": 54.189136876949846,
+  "lng": 19.43057526054815
+},{
+  "code": "NEV",
+  "city": "Elbląg (powiat)",
+  "lat": 54.189136876949847,
+  "lng": 19.43057526054816
+},{
+  "code": "NEL",
+  "city": "Ełk",
+  "lat": 53.82551144027263,
+  "lng": 22.355085197453477
+},{
+  "code": "NGI",
+  "city": "Giżycko",
+  "lat": 54.0337366260795,
+  "lng": 21.75453261758425
+},{
+  "code": "NGO",
+  "city": "Gołdap",
+  "lat": 54.314254538956554,
+  "lng": 22.30601101924284
+},{
+  "code": "NIL",
+  "city": "Iława",
+  "lat": 53.591714797955404,
+  "lng": 19.571589682059788
+},{
+  "code": "NKE",
+  "city": "Kętrzyn",
+  "lat": 54.080552634653216,
+  "lng": 21.373944307393113
+},{
+  "code": "NLI",
+  "city": "Lidzbark Warmiński",
+  "lat": 54.13182954418871,
+  "lng": 20.576367958582235
+},{
+  "code": "NMR",
+  "city": "Mrągowo",
+  "lat": 53.86746770621353,
+  "lng": 21.30310282274954
+},{
+  "code": "NNI",
+  "city": "Nidzica",
+  "lat": 53.360531922539835,
+  "lng": 20.409886953840843
+},{
+  "code": "NNI",
+  "city": "Nowe Miasto Lubawskie",
+  "lat": 53.420608837312365,
+  "lng": 19.578663368697644
+},{
+  "code": "NO",
+  "city": "Olsztyn",
+  "lat": 53.785524779691784,
+  "lng": 20.47256377497891
+},{
+  "code": "NOE",
+  "city": "Olecko",
+  "lat": 54.037385406187276,
+  "lng": 22.50461786035545
+},{
+  "code": "NOG",
+  "city": "Olecko",
+  "lat": 54.037385406187277,
+  "lng": 22.50461786035546
+},{
+  "code": "NOL",
+  "city": "Olsztyn (powiat)",
+  "lat": 53.785524779691784,
+  "lng": 20.47256377497891
+},{
+  "code": "NOS",
+  "city": "Ostróda",
+  "lat": 53.7043537400101,
+  "lng": 19.97126679071158
+},{
+  "code": "NPI",
+  "city": "Pisz",
+  "lat": 53.6297287342565,
+  "lng": 21.81213738381227
+},{
+  "code": "NSZ",
+  "city": "Szczytno",
+  "lat": 53.563613671725804,
+  "lng": 20.992305860996787
+},{
+  "code": "NWE",
+  "city": "Węgorzewo",
+  "lat": 54.212005142192,
+  "lng": 21.743376466230703
+},{
+  "code": "OB",
+  "city": "Brzeg",
+  "lat": 50.86053358365808,
+  "lng": 17.467071715182467
+},{
+  "code": "OGL",
+  "city": "Głubczyce",
+  "lat": 50.20227735546498,
+  "lng": 17.825109143611655
+},{
+  "code": "OK",
+  "city": "Kędzierzyn-Koźle",
+  "lat": 50.3628498941993,
+  "lng": 18.229567078732263
+},{
+  "code": "OKL",
+  "city": "Kluczbork",
+  "lat": 50.97201847505037,
+  "lng": 18.210956017707133
+},{
+  "code": "OKR",
+  "city": "Krapkowice",
+  "lat": 50.47955931304505,
+  "lng": 17.95298085728263
+},{
+  "code": "ONA",
+  "city": "Namysłow",
+  "lat": 51.07664901716312,
+  "lng": 17.711699097814225
+},{
+  "code": "ONY",
+  "city": "Nysa",
+  "lat": 50.47717699863096,
+  "lng": 17.334999995885855
+},{
+  "code": "OOL",
+  "city": "Olesno",
+  "lat": 50.87945245648164,
+  "lng": 18.415144591893064
+},{
+  "code": "OP",
+  "city": "Opole",
+  "lat": 50.68524729474888,
+  "lng": 17.908343815500295
+},{
+  "code": "OPO",
+  "city": "Opole (powiat)",
+  "lat": 50.68524729474889,
+  "lng": 17.908343815500296
+},{
+  "code": "OPR",
+  "city": "Prudnik",
+  "lat": 50.315975222725555,
+  "lng": 17.56972984695807
+},{
+  "code": "OST",
+  "city": "Strzelce Opolskie",
+  "lat": 50.53349884452068,
+  "lng": 18.30150955535098
+},{
+  "code": "PCH",
+  "city": "Chodzież",
+  "lat": 52.99480816545492,
+  "lng": 16.909029727691497
+},{
+  "code": "PCT",
+  "city": "Czarnków",
+  "lat": 52.89795942518614,
+  "lng": 16.56148586997911
+},{
+  "code": "PGN",
+  "city": "Gniezno",
+  "lat": 52.53052167122346,
+  "lng": 17.589656369728726
+},{
+  "code": "PGO",
+  "city": "Grodzisk Wielkopolski",
+  "lat": 52.22960256855011,
+  "lng": 16.359052679038946
+},{
+  "code": "PGS",
+  "city": "Gostyń",
+  "lat": 51.88413389700711,
+  "lng": 17.013382839997117
+},{
+  "code": "PJA",
+  "city": "Jarocin",
+  "lat": 51.9681077920488,
+  "lng": 17.499349917890864
+},{
+  "code": "PK",
+  "city": "Kalisz",
+  "lat": 51.75174670602344,
+  "lng": 18.075337398138092
+},{
+  "code": "PKA",
+  "city": "Kalisz (powiat)",
+  "lat": 51.75174670602345,
+  "lng": 18.075337398138093
+},{
+  "code": "PKE",
+  "city": "Kępno",
+  "lat": 51.28287688566681,
+  "lng": 17.984256869370018
+},{
+  "code": "PKL",
+  "city": "Koło",
+  "lat": 52.203390084227124,
+  "lng": 18.621234960536917
+},{
+  "code": "PKN",
+  "city": "Konin (powiat)",
+  "lat": 52.24516838671495,
+  "lng": 18.26614467506545
+},{
+  "code": "PKO",
+  "city": "Konin",
+  "lat": 52.24516838671496,
+  "lng": 18.26614467506546
+},{
+  "code": "PKR",
+  "city": "Krotoszyn",
+  "lat": 51.69501478787647,
+  "lng": 17.44216774776398
+},{
+  "code": "PKS",
+  "city": "Kościan",
+  "lat": 52.084197448613445,
+  "lng": 16.646370609429678
+},{
+  "code": "PL",
+  "city": "Leszno",
+  "lat": 51.841719623293386,
+  "lng": 16.571477739754467
+},{
+  "code": "PLE",
+  "city": "Leszno (powiat)",
+  "lat": 51.841719623293386,
+  "lng": 16.571477739754467
+},{
+  "code": "PMI",
+  "city": "Międzychód",
+  "lat": 52.59817584063238,
+  "lng": 15.891941483876721
+},{
+  "code": "PN",
+  "city": "Konin",
+  "lat": 52.25378620107494,
+  "lng": 18.26545802961341
+},{
+  "code": "PN",
+  "city": "Nowy Tomyśl",
+  "lat": 52.31339510623032,
+  "lng": 16.131983792790496
+},{
+  "code": "PO",
+  "city": "Poznań",
+  "lat": 52.40505397909242,
+  "lng": 16.922259203777802
+},{
+  "code": "POB",
+  "city": "Oborniki",
+  "lat": 52.65435782045815,
+  "lng": 16.811307654683034
+},{
+  "code": "POS",
+  "city": "Ostrów Wielkopolski",
+  "lat": 51.64707482650283,
+  "lng": 17.81517359509379
+},{
+  "code": "POT",
+  "city": "Ostrzeszów",
+  "lat": 51.42696760705705,
+  "lng": 17.930280060534596
+},{
+  "code": "POZ",
+  "city": "Poznań (powiat)",
+  "lat": 52.40840509531488,
+  "lng": 16.920199267421662
+},{
+  "code": "PP",
+  "city": "Piła",
+  "lat": 53.14734946843861,
+  "lng": 16.75762364798727
+},{
+  "code": "PPL",
+  "city": "Pleszew",
+  "lat": 51.89583164733596,
+  "lng": 17.786990732944663
+},{
+  "code": "PRA",
+  "city": "Rawicz",
+  "lat": 51.6146082542913,
+  "lng": 16.87169248864784
+},{
+  "code": "PSE",
+  "city": "Śrem",
+  "lat": 52.085944852979864,
+  "lng": 17.01990314351303
+},{
+  "code": "PSL",
+  "city": "Słupca",
+  "lat": 52.292708829915036,
+  "lng": 17.867375683662864
+},{
+  "code": "PSR",
+  "city": "Środa Wielkopolska",
+  "lat": 52.23143174164369,
+  "lng": 17.28347077707253
+},{
+  "code": "PSZ",
+  "city": "Szamotuły",
+  "lat": 52.61057310049673,
+  "lng": 16.58315927305963
+},{
+  "code": "PTU",
+  "city": "Turek",
+  "lat": 52.01559172960962,
+  "lng": 18.507571544081976
+},{
+  "code": "PWA",
+  "city": "Wągrowiec",
+  "lat": 52.808198032417664,
+  "lng": 17.205847603569158
+},{
+  "code": "PWL",
+  "city": "Wolsztyn",
+  "lat": 52.11373400260314,
+  "lng": 16.116130135602475
+},{
+  "code": "PWR",
+  "city": "Września",
+  "lat": 52.32418792160993,
+  "lng": 17.566891628047372
+},{
+  "code": "PZ",
+  "city": "Poznań",
+  "lat": 52.40274377701463,
+  "lng": 16.91923640944162
+},{
+  "code": "PZL",
+  "city": "Złotów",
+  "lat": 53.36006945865001,
+  "lng": 17.04120669356991
+},{
+  "code": "RBI",
+  "city": "Ustrzyki Dolne",
+  "lat": 49.43225678973365,
+  "lng": 22.58142277600053
+},{
+  "code": "RBR",
+  "city": "Brzozów",
+  "lat": 49.69894417742506,
+  "lng": 22.02686328250186
+},{
+  "code": "RDE",
+  "city": "Dębica",
+  "lat": 50.04875865898174,
+  "lng": 21.41965403831618
+},{
+  "code": "RJA",
+  "city": "Jarosław",
+  "lat": 50.0285579221795,
+  "lng": 22.677956038248954
+},{
+  "code": "RJS",
+  "city": "Jasło",
+  "lat": 49.742441831809415,
+  "lng": 21.477696445299905
+},{
+  "code": "RK",
+  "city": "Krosno",
+  "lat": 49.69164842454491,
+  "lng": 21.753651472188412
+},{
+  "code": "RKL",
+  "city": "Kolbuszowa",
+  "lat": 50.23938294469614,
+  "lng": 21.77023499479969
+},{
+  "code": "RKR",
+  "city": "Krosno (powiat)",
+  "lat": 49.69131527969078,
+  "lng": 21.760689588071855
+},{
+  "code": "RLA",
+  "city": "Łańcut",
+  "lat": 50.07532380469519,
+  "lng": 22.225174483937163
+},{
+  "code": "RLE",
+  "city": "Leżajsk",
+  "lat": 50.26167654352144,
+  "lng": 22.421031443248328
+},{
+  "code": "RLS",
+  "city": "Lesko",
+  "lat": 49.47431240083389,
+  "lng": 22.331282047925043
+},{
+  "code": "RLU",
+  "city": "Lubaczów",
+  "lat": 50.15657972913162,
+  "lng": 23.120423223187814
+},{
+  "code": "RMI",
+  "city": "Mielec",
+  "lat": 50.28816503694636,
+  "lng": 21.459919067718943
+},{
+  "code": "RNI",
+  "city": "Nisko",
+  "lat": 50.50291720875764,
+  "lng": 22.120095633212113
+},{
+  "code": "RP",
+  "city": "Przemyśl",
+  "lat": 49.78288269270273,
+  "lng": 22.777361654691852
+},{
+  "code": "RPR",
+  "city": "Przemyśl (powiat)",
+  "lat": 49.78288269270273,
+  "lng": 22.777361654691852
+},{
+  "code": "RPZ",
+  "city": "Przeworsk",
+  "lat": 50.05816147663845,
+  "lng": 22.497926072483143
+},{
+  "code": "RRS",
+  "city": "Ropczyce",
+  "lat": 50.051780384559905,
+  "lng": 21.604856833820634
+},{
+  "code": "RSA",
+  "city": "Sanok",
+  "lat": 49.5608581649509,
+  "lng": 22.213658371277518
+},{
+  "code": "RSR",
+  "city": "Strzyzów",
+  "lat": 49.87246525517476,
+  "lng": 21.78934679415192
+},{
+  "code": "RST",
+  "city": "Stalowa Wola",
+  "lat": 50.56530084658834,
+  "lng": 22.03448113038915
+},{
+  "code": "RT",
+  "city": "Tarnobrzeg",
+  "lat": 50.581997403627135,
+  "lng": 21.709669055970366
+},{
+  "code": "RTA",
+  "city": "Tarnobrzeg (powiat)",
+  "lat": 50.581997403627135,
+  "lng": 21.709669055970366
+},{
+  "code": "RZ",
+  "city": "Rzeszów",
+  "lat": 50.02662259099784,
+  "lng": 22.000461253354786
+},{
+  "code": "RZE",
+  "city": "Rzeszów (powiat)",
+  "lat": 50.02662259099784,
+  "lng": 22.000461253354786
+},{
+  "code": "SB",
+  "city": "Bielsko-Biała",
+  "lat": 49.8142098359798,
+  "lng": 19.043136651535693
+},{
+  "code": "SBE",
+  "city": "Będzin",
+  "lat": 50.33945529960302,
+  "lng": 19.123204239384457
+},{
+  "code": "SBI",
+  "city": "Bielsko-Biała (powiat)",
+  "lat": 49.81059335244453,
+  "lng": 19.03512731567324
+},{
+  "code": "SBL",
+  "city": "Bieruńsko-Lędziński",
+  "lat": 50.08933947107246,
+  "lng": 19.138188557503476
+},{
+  "code": "SC",
+  "city": "Częstochowa",
+  "lat": 50.799001889240714,
+  "lng": 19.12008847312927
+},{
+  "code": "SCI",
+  "city": "Cieszyn",
+  "lat": 49.75665348924122,
+  "lng": 18.64905446860583
+},{
+  "code": "SCZ",
+  "city": "Częstochowa (powiat)",
+  "lat": 50.80646109624923,
+  "lng": 19.11424069969407
+},{
+  "code": "SD",
+  "city": "Dąbrowa Górnicza",
+  "lat": 50.35419598432249,
+  "lng": 19.294692088095168
+},{
+  "code": "SG",
+  "city": "Gliwice",
+  "lat": 50.29727108735844,
+  "lng": 18.66746755007325
+},{
+  "code": "SGL",
+  "city": "Gliwice (powiat)",
+  "lat": 50.29727108735844,
+  "lng": 18.66746755007325
+},{
+  "code": "SH",
+  "city": "Chorzów",
+  "lat": 50.29500076373682,
+  "lng": 18.951742967995667
+},{
+  "code": "SI",
+  "city": "Siemianowice Śląskie",
+  "lat": 50.31122370372971,
+  "lng": 19.02525386518522
+},{
+  "code": "SJ",
+  "city": "Jaworzno",
+  "lat": 50.206370254967595,
+  "lng": 19.28031712891008
+},{
+  "code": "SJZ",
+  "city": "Jastrzębie Zdrój",
+  "lat": 49.955857100137834,
+  "lng": 18.616110201689754
+},{
+  "code": "SK",
+  "city": "Katowice",
+  "lat": 50.21680230468974,
+  "lng": 19.026502291810065
+},{
+  "code": "SKL",
+  "city": "Kłobuck",
+  "lat": 50.903971552846144,
+  "lng": 18.93608684213707
+},{
+  "code": "SL",
+  "city": "Ruda Śląska",
+  "lat": 50.26495213017249,
+  "lng": 18.871270708345893
+},{
+  "code": "SLU",
+  "city": "Lubliniec",
+  "lat": 50.636312170762814,
+  "lng": 18.698337419082964
+},{
+  "code": "SM",
+  "city": "Mysłowice",
+  "lat": 50.19633941902153,
+  "lng": 19.15105433390565
+},{
+  "code": "SMI",
+  "city": "Mikołow",
+  "lat": 50.19192668806167,
+  "lng": 18.860373851681906
+},{
+  "code": "SMY",
+  "city": "Myszków",
+  "lat": 50.56336744667686,
+  "lng": 19.33310011220939
+},{
+  "code": "SO",
+  "city": "Sosnowiec",
+  "lat": 50.2770824893256,
+  "lng": 19.18663467204289
+},{
+  "code": "SPI",
+  "city": "Piekary Śląskie",
+  "lat": 50.37748908230176,
+  "lng": 18.97025806835886
+},{
+  "code": "SPS",
+  "city": "Pszczyna",
+  "lat": 49.9864289576617,
+  "lng": 18.936781110615975
+},{
+  "code": "SR",
+  "city": "Rybnik",
+  "lat": 50.10185372503471,
+  "lng": 18.550936713966767
+},{
+  "code": "SRB",
+  "city": "Rybnik (powiat)",
+  "lat": 50.10185372503471,
+  "lng": 18.550936713966767
+},{
+  "code": "SRC",
+  "city": "Racibórz",
+  "lat": 50.08870470596628,
+  "lng": 18.22056431592142
+},{
+  "code": "SRS",
+  "city": "Ruda Śląska",
+  "lat": 50.268902337480554,
+  "lng": 18.868180803811697
+},{
+  "code": "ST",
+  "city": "Tychy",
+  "lat": 50.12075702504888,
+  "lng": 19.010560497970598
+},{
+  "code": "STA",
+  "city": "Tarnowskie Góry",
+  "lat": 50.46160302412516,
+  "lng": 18.838248873043263
+},{
+  "code": "STY",
+  "city": "Tychy (powiat)",
+  "lat": 50.125049344522594,
+  "lng": 19.00626896389533
+},{
+  "code": "SW",
+  "city": "Świętochłowice",
+  "lat": 50.298676187444904,
+  "lng": 18.907200092367745
+},{
+  "code": "SWD",
+  "city": "Wodzisław Śląski",
+  "lat": 50.00661087579778,
+  "lng": 18.453104492507727
+},{
+  "code": "SY",
+  "city": "Bytom",
+  "lat": 50.361035709073306,
+  "lng": 18.877002474649423
+},{
+  "code": "SZ",
+  "city": "Zabrze",
+  "lat": 50.3190845927246,
+  "lng": 18.789782314191363
+},{
+  "code": "SZA",
+  "city": "Zawiercie",
+  "lat": 50.50127737026959,
+  "lng": 19.464782146111386
+},{
+  "code": "SZO",
+  "city": "Żory",
+  "lat": 50.04168926618312,
+  "lng": 18.69272788825586
+},{
+  "code": "SZY",
+  "city": "Żywiec",
+  "lat": 49.685014802348704,
+  "lng": 19.221393696097604
+},{
+  "code": "TBU",
+  "city": "Busko Zdrój",
+  "lat": 50.471193297960035,
+  "lng": 20.71970179632104
+},{
+  "code": "TJE",
+  "city": "Jędrzejów",
+  "lat": 50.64016738694217,
+  "lng": 20.29746846478174
+},{
+  "code": "TK",
+  "city": "Kielce",
+  "lat": 50.86312119712741,
+  "lng": 20.608430006947017
+},{
+  "code": "TKA",
+  "city": "Kazimierza Wielka",
+  "lat": 50.268720525950116,
+  "lng": 20.480588401668932
+},{
+  "code": "TKI",
+  "city": "Kielce (powiat)",
+  "lat": 50.85927007076684,
+  "lng": 20.615052281536418
+},{
+  "code": "TKN",
+  "city": "Końskie",
+  "lat": 51.1858614018747,
+  "lng": 20.405275246369584
+},{
+  "code": "TLW",
+  "city": "Włoszczowa",
+  "lat": 50.85536579452521,
+  "lng": 19.984241296322214
+},{
+  "code": "TOP",
+  "city": "Opatów",
+  "lat": 50.80360078255561,
+  "lng": 21.424870841235673
+},{
+  "code": "TOS",
+  "city": "Ostrowiec Świętokrzyski",
+  "lat": 50.948402573896765,
+  "lng": 21.397729665181142
+},{
+  "code": "TPI",
+  "city": "Pińczów",
+  "lat": 50.51748845130926,
+  "lng": 20.536022146179572
+},{
+  "code": "TSA",
+  "city": "Sandomierz",
+  "lat": 50.68169938364683,
+  "lng": 21.753336015468697
+},{
+  "code": "TSK",
+  "city": "Skarżysko-Kamienna",
+  "lat": 51.11881434758437,
+  "lng": 20.859719096569858
+},{
+  "code": "TST",
+  "city": "Starachowice",
+  "lat": 51.04203094589265,
+  "lng": 21.076576813491435
+},{
+  "code": "TSZ",
+  "city": "Staszów",
+  "lat": 50.56271910240307,
+  "lng": 21.181323801065336
+},{
+  "code": "WA",
+  "city": "Warszawa Białołęka",
+  "lat": 52.3294756964659,
+  "lng": 21.003721706875165
+},{
+  "code": "WB",
+  "city": "Warszawa Bemowo",
+  "lat": 52.24792685747973,
+  "lng": 20.909074844908005
+},{
+  "code": "WD",
+  "city": "Warszawa Bielany",
+  "lat": 52.29364463728653,
+  "lng": 20.926538984934627
+},{
+  "code": "WE",
+  "city": "Warszawa Mokotów",
+  "lat": 52.19259994744946,
+  "lng": 21.03577731956366
+},{
+  "code": "WF",
+  "city": "Warszawa Praga-Południe",
+  "lat": 52.241230773909216,
+  "lng": 21.082761120848442
+},{
+  "code": "WH",
+  "city": "Warszawa Praga-Północ",
+  "lat": 52.26729582349209,
+  "lng": 21.02374626787847
+},{
+  "code": "WI",
+  "city": "Warszawa Śródmieście",
+  "lat": 52.23502417903767,
+  "lng": 21.018615137981726
+},{
+  "code": "WJ",
+  "city": "Warszawa Targówek",
+  "lat": 52.28240152233673,
+  "lng": 21.065207681542844
+},{
+  "code": "WK",
+  "city": "Warszawa Ursus",
+  "lat": 52.195751677084246,
+  "lng": 20.88269559372346
+},{
+  "code": "WN",
+  "city": "Warszawa Ursynów",
+  "lat": 52.136692339798415,
+  "lng": 21.03087124871221
+},{
+  "code": "WT",
+  "city": "Warszawa Wawer",
+  "lat": 52.19309287726039,
+  "lng": 21.17934043832523
+},{
+  "code": "WU",
+  "city": "Warszawa Ochota",
+  "lat": 52.21021168379783,
+  "lng": 20.970599863922097
+},{
+  "code": "WZ",
+  "city": "Warszawa Zachód",
+  "lat": 52.220029889490554,
+  "lng": 20.96538302900464
+},{
+  "code": "WBR",
+  "city": "Białobrzegi",
+  "lat": 51.647104231971156,
+  "lng": 20.945264980209874
+},{
+  "code": "WCI",
+  "city": "Ciechanów",
+  "lat": 52.87159924691002,
+  "lng": 20.613244908589003
+},{
+  "code": "WG",
+  "city": "Garwolin",
+  "lat": 51.89689421015486,
+  "lng": 21.62229597874768
+},{
+  "code": "WGM",
+  "city": "Grodzisk Mazowiecki",
+  "lat": 52.108240452275155,
+  "lng": 20.635314250360945
+},{
+  "code": "WGR",
+  "city": "Grójec",
+  "lat": 51.865238829199185,
+  "lng": 20.872971227652055
+},{
+  "code": "WGS",
+  "city": "Gostynin",
+  "lat": 52.422708770400945,
+  "lng": 19.471811880288847
+},{
+  "code": "WKZ",
+  "city": "Kozienice",
+  "lat": 51.588340107024386,
+  "lng": 21.534797000146213
+},{
+  "code": "WL",
+  "city": "Legionowo",
+  "lat": 52.405827011021366,
+  "lng": 20.933310909482493
+},{
+  "code": "WLI",
+  "city": "Lipsko",
+  "lat": 51.16378831651434,
+  "lng": 21.65023117120976
+},{
+  "code": "WLS",
+  "city": "Łosice",
+  "lat": 52.20505643394127,
+  "lng": 22.723747776368267
+},{
+  "code": "WM",
+  "city": "Mińsk Mazowiecki",
+  "lat": 52.1796663638567,
+  "lng": 21.56491768381815
+},{
+  "code": "WMA",
+  "city": "Maków Mazowiecki",
+  "lat": 52.86076304039486,
+  "lng": 21.09536903241078
+},{
+  "code": "WML",
+  "city": "Mława",
+  "lat": 53.12787874475299,
+  "lng": 20.38165230823263
+},{
+  "code": "WND",
+  "city": "Nowy Dwór Mazowiecki",
+  "lat": 52.43978152061031,
+  "lng": 20.706219179770514
+},{
+  "code": "WO",
+  "city": "Ostrołęka",
+  "lat": 53.08148254129179,
+  "lng": 21.58585065555723
+},{
+  "code": "WOR",
+  "city": "Ostrów Mazowiecka",
+  "lat": 52.803761849064216,
+  "lng": 21.885488933127462
+},{
+  "code": "WOS",
+  "city": "Ostrołęka (powiat)",
+  "lat": 53.08055451139768,
+  "lng": 21.583447396475083
+},{
+  "code": "WOT",
+  "city": "Otwock",
+  "lat": 52.1179293521044,
+  "lng": 21.29704031440765
+},{
+  "code": "WP",
+  "city": "Płock",
+  "lat": 52.53496781525075,
+  "lng": 19.70165494703965
+},{
+  "code": "WPI",
+  "city": "Piaseczno",
+  "lat": 52.07038222627123,
+  "lng": 21.01947691184346
+},{
+  "code": "WPL",
+  "city": "Płock (powiat)",
+  "lat": 52.54060600834974,
+  "lng": 19.702341592491692
+},{
+  "code": "WPN",
+  "city": "Płońsk",
+  "lat": 52.62644669363857,
+  "lng": 20.36636548168434
+},{
+  "code": "WPR",
+  "city": "Pruszków",
+  "lat": 52.172825738649635,
+  "lng": 20.802838464825598
+},{
+  "code": "WPU",
+  "city": "Pułtusk",
+  "lat": 52.707836518413615,
+  "lng": 21.08372089143495
+},{
+  "code": "WPY",
+  "city": "Przysucha",
+  "lat": 51.352717615645105,
+  "lng": 20.62814084334037
+},{
+  "code": "WPZ",
+  "city": "Przasnysz",
+  "lat": 53.01983602070472,
+  "lng": 20.883874252843423
+},{
+  "code": "WR",
+  "city": "Radom",
+  "lat": 51.405408194992326,
+  "lng": 21.158092223163013
+},{
+  "code": "WRA",
+  "city": "Radom (powiat)",
+  "lat": 51.40497985952673,
+  "lng": 21.16083880497119
+},{
+  "code": "WS",
+  "city": "Siedlce",
+  "lat": 52.16522093249573,
+  "lng": 22.273975382956156
+},{
+  "code": "WSC",
+  "city": "Sochaczew",
+  "lat": 52.23600188884888,
+  "lng": 20.253062983456825
+},{
+  "code": "WSE",
+  "city": "Sierpc",
+  "lat": 52.85114306826056,
+  "lng": 19.661987557416385
+},{
+  "code": "WSK",
+  "city": "Sokołów Podlaski",
+  "lat": 52.40746169817924,
+  "lng": 22.239184357479992
+},{
+  "code": "WSI",
+  "city": "Siedlce (powiat)",
+  "lat": 52.165326227152676,
+  "lng": 22.27260209205207
+},{
+  "code": "WSZ",
+  "city": "Szydłowiec",
+  "lat": 51.22355883335799,
+  "lng": 20.850357701143906
+},{
+  "code": "WV",
+  "city": "Wołomin",
+  "lat": 52.34846301081496,
+  "lng": 21.24323978196211
+},{
+  "code": "WWE",
+  "city": "Węgrów",
+  "lat": 52.40872242808491,
+  "lng": 22.037706189202794
+},{
+  "code": "WWL",
+  "city": "Wołomin",
+  "lat": 52.34846301081496,
+  "lng": 21.24341144332512
+},{
+  "code": "WWY",
+  "city": "Wyszków",
+  "lat": 52.59850127536717,
+  "lng": 21.454338233781694
+},{
+  "code": "WZU",
+  "city": "Żuromin",
+  "lat": 53.064224300132,
+  "lng": 19.912490650966944
+},{
+  "code": "WZW",
+  "city": "Zwoleń",
+  "lat": 51.35667451786462,
+  "lng": 21.586744478153022
+},{
+  "code": "WZY",
+  "city": "Żyrardów",
+  "lat": 52.05636584996743,
+  "lng": 20.44432652534226
+},{
+  "code": "ZBI",
+  "city": "Białogard",
+  "lat": 54.00478136803788,
+  "lng": 15.982628455615297
+},{
+  "code": "ZCH",
+  "city": "Choszczno",
+  "lat": 53.167307688512196,
+  "lng": 15.423769726699456
+},{
+  "code": "ZDR",
+  "city": "Drawsko Pomorskie",
+  "lat": 53.531262244232536,
+  "lng": 15.810168515902399
+},{
+  "code": "ZGL",
+  "city": "Goleniów",
+  "lat": 53.565651693640845,
+  "lng": 14.835955236787195
+},{
+  "code": "ZGR",
+  "city": "Gryfino",
+  "lat": 53.251385492557795,
+  "lng": 14.4929202630135
+},{
+  "code": "ZGY",
+  "city": "Gryfice",
+  "lat": 53.91758466710185,
+  "lng": 15.203190800589345
+},{
+  "code": "ZK",
+  "city": "Koszalin",
+  "lat": 54.19931604807104,
+  "lng": 16.20791295989507
+},{
+  "code": "ZKA",
+  "city": "Kamień Pomorski",
+  "lat": 53.96706134791147,
+  "lng": 14.784226685385942
+},{
+  "code": "ZKL",
+  "city": "Kołobrzeg",
+  "lat": 54.17719679632562,
+  "lng": 15.57286999560737
+},{
+  "code": "ZKO",
+  "city": "Koszalin (powiat)",
+  "lat": 54.20318381281602,
+  "lng": 16.204984538105478
+},{
+  "code": "ZLO",
+  "city": "Łobez",
+  "lat": 53.63322673249589,
+  "lng": 15.621714111925028
+},{
+  "code": "ZMY",
+  "city": "Myślibórz",
+  "lat": 52.924861938505984,
+  "lng": 14.869789322041047
+},{
+  "code": "ZPL",
+  "city": "Police",
+  "lat": 53.56313629535942,
+  "lng": 14.566176687728776
+},{
+  "code": "ZPY",
+  "city": "Przyce",
+  "lat": 52.22083129826806,
+  "lng": 20.931767926459084
+},{
+  "code": "ZS",
+  "city": "Szczecin",
+  "lat": 53.43381427040985,
+  "lng": 14.606652942196126
+},{
+  "code": "ZSD",
+  "city": "Świdwin",
+  "lat": 53.77890524214722,
+  "lng": 15.792267697085588
+},{
+  "code": "ZSL",
+  "city": "Sławno",
+  "lat": 54.3644011063594,
+  "lng": 16.677603953639462
+},{
+  "code": "ZST",
+  "city": "Stargard Sczeciński",
+  "lat": 53.33696395564154,
+  "lng": 15.03651563466698
+},{
+  "code": "ZSW",
+  "city": "Świnoujście",
+  "lat": 53.8830455065869,
+  "lng": 14.304150207172144
+},{
+  "code": "ZSZ",
+  "city": "Szczecinek",
+  "lat": 53.709942048049214,
+  "lng": 16.698596188776463
+},{
+  "code": "ZWA",
+  "city": "Wałcz",
+  "lat": 53.27387676517095,
+  "lng": 16.473909549583215
+},{
+  "code": "U",
+  "city": "wojska MSWiA"
+},{
+  "code": "HB",
+  "city": "Biuro Ochrony Rządu"
+},{
+  "code": "HK",
+  "city": "Agencja Bezpieczeństwa Wewnętrznego i Agencja Wywiadu"
+},{
+  "code": "HM",
+  "city": "Służba Wywiadu Wojskowego i Służba Kontrwywiadu Wojskowego"
+},{
+  "code": "HP",
+  "city": "Policja"
+},{
+  "code": "HS",
+  "city": "Kontrola Skarbowa"
+},{
+  "code": "HW",
+  "city": "Straż Graniczna"
+}
 ]

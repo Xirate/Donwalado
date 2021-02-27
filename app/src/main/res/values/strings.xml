@@ -4,4 +4,6 @@
     <string name="search_content_description">Search</string>
     <string name="info_content_description">Info</string>
     <string name="search_hint">Wyszukaj</string>
+    <string name="facebook_app_id">470370407673209</string>
+    <string name="fb_login_protocol_scheme">fb470370407673209</string>
 </resources>
